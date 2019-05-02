@@ -8,6 +8,6 @@
             1. Machin.
                 1. Bidule.
 3. Bonjour.
-[google] (https://www.google.com)
+[google](https://www.google.com)
 
-[test] (test.md)
+[index](index.md)
