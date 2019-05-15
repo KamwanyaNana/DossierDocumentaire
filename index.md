@@ -4,7 +4,7 @@ Un lien vers ma page de [test](test.md).
 
 You can use the [editor on GitHub](https://github.com/KamwanyaNana/DossierDocumentaire/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Lieu où se trouvera mon introduction.
+Endroit où se trouvera mon introduction.
 
 ### Markdown
 
