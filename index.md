@@ -8,17 +8,17 @@ Endroit où se trouvera mon introduction.
 
 ## Le plan de classement
 1. L'animation par ordinateur
-  1. Les images de synthèses
-      * Organic motion
-      * Motion capture
-  2. les effets spéciaux numériques
+    1. Les images de synthèses
+        * Organic motion
+        * Motion capture
+    2. les effets spéciaux numériques
 2. L'animation en volume ou 3D réelle
-  1. Stop-motion
-  2. Pixilation
+    1. Stop-motion
+    2. Pixilation
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-
+```markdown
 Syntax highlighted code block
 
 # Header 1
