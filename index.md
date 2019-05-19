@@ -2,8 +2,6 @@
 
 Un lien vers ma page de [test](test.md).
 
-You can use the [editor on GitHub](https://github.com/KamwanyaNana/DossierDocumentaire/edit/master/index.md).
-
 Endroit où se trouvera mon introduction.
 
 ## Le plan de classement
