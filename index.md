@@ -2,46 +2,16 @@
 
 Un lien vers ma page de [test](test.md).
 
-You can use the [editor on GitHub](https://github.com/KamwanyaNana/DossierDocumentaire/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/KamwanyaNana/DossierDocumentaire/edit/master/index.md).
 
 Endroit où se trouvera mon introduction.
 
 ## Le plan de classement
-1. L'animation par ordinateur
-    1. Les images de synthèses
-        * Organic motion
-        * Motion capture
-    2. les effets spéciaux numériques
-2. L'animation en volume ou 3D réelle
+1. L'animation en volume ou 3D réel
     1. Stop-motion
     2. Pixilation
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KamwanyaNana/DossierDocumentaire/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+2. L'animation par ordinateur
+    1. les effets spéciaux/animation numériques
+    2. Les images de synthèse
+        * Organic motion
+        * Motion capture
