@@ -13,3 +13,5 @@ Endroit où se trouvera mon introduction.
     2. Les images de synthèse
         * Organic motion
         * Motion capture
+
+> Oh la belle prise.
