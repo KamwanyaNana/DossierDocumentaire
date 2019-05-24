@@ -9,7 +9,7 @@ Endroit de mon introduction (aller la chercher sur LaTeX).
 
 1. L'animation en volume ou 3D réel
 
-    - Le stop-motion
+    - [Le stop-motion](stopmotion.md){.btn .btn-default}
     - La pixilation
     
 2. L'animation par ordinateur
