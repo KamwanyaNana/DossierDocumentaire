@@ -1,6 +1,6 @@
 # L'animation 3D
 
-Un lien vers ma page de [test](test.md).
+Un lien vers ma page de [test](test.md){.btn .btn-link}.
 
 Endroit de mon introduction (aller la chercher sur LaTeX).
 
