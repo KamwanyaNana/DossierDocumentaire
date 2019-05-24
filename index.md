@@ -16,8 +16,8 @@ Endroit de mon introduction (aller la chercher sur LaTeX).
 
     - L'animation et effets spéciaux numériques
     
-        - La 2D
-        - La 3D
+        * La 2D
+        * La 3D
         
     - Les images de synthèse
     
