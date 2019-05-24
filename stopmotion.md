@@ -3,4 +3,4 @@
 Défénition.
 
 Première référence du _Monde du stop-motion_.
-![Le monde du stop-motion](mondestopmtion.JPG)
+![Le monde du stop-motion](/images/mondestopmtion.JPG)
