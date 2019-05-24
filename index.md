@@ -2,7 +2,7 @@
 
 Un lien vers ma page de [test](test.md).
 
-Endroit où se trouvera mon introduction.
+Endroit de mon introduction (aller la chercher sur LaTeX).
 
 ## Le plan de classement
 
