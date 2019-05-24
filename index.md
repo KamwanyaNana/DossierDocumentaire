@@ -15,10 +15,12 @@ Endroit de mon introduction (aller la chercher sur LaTeX).
 2. L'animation par ordinateur
 
     - L'animation et effets spéciaux numériques
+    
         - La 2D
         - La 3D
         
     - Les images de synthèse
+    
         * L'organic motion
         * Le ray tracing ou photoréalisme
         * Le motion capture
