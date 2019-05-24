@@ -1,6 +1,6 @@
 # L'animation 3D
 
-Un lien vers ma page de [test](test.md){.btn.btn-link}.
+Un lien vers ma page de [test](test.md){btnbtn-link}.
 
 Endroit de mon introduction (aller la chercher sur LaTeX).
 
@@ -10,7 +10,7 @@ Endroit de mon introduction (aller la chercher sur LaTeX).
 
 1. L'animation en volume ou 3D réel
 
-    - [Le stop-motion](stopmotion.md){.btn-default}
+    - [Le stop-motion](stopmotion.md){btn-default}
     - La pixilation
     
 2. L'animation par ordinateur
