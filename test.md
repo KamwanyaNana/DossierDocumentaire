@@ -11,3 +11,4 @@
 [google](https://www.google.com)
 
 [index](index.md)
+[Default](#){.btn .btn-default}
