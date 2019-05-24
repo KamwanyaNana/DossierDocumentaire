@@ -2,4 +2,5 @@
 
 Défénition.
 
-Première référence.
+Première référence du _Monde du stop-motion_.
+[Le monde du stop-motion](mondestopmtion.JPG)
