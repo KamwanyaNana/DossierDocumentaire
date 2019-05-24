@@ -9,7 +9,10 @@ Endroit où se trouvera mon introduction.
     - Stop-motion
     - Pixilation
 2. L'animation par ordinateur
-    - les effets spéciaux/animation numériques
+    - L'animation et effets spéciaux numériques
+        - La 2D
+        - La 3D
     - Les images de synthèse
         * Organic motion
+        * Le ray tracing ou potoréalisme
         * Motion capture
