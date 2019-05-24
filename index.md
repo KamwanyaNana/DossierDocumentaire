@@ -9,8 +9,8 @@ Endroit où se trouvera mon introduction.
 
 1. L'animation en volume ou 3D réel
 
-    - Stop-motion
-    - Pixilation
+    - Le stop-motion
+    - La pixilation
     
 2. L'animation par ordinateur
 
@@ -19,6 +19,6 @@ Endroit où se trouvera mon introduction.
         - La 3D
         
     - Les images de synthèse
-        * Organic motion
-        * Le ray tracing ou potoréalisme
-        * Motion capture
+        * L'organic motion
+        * Le ray tracing ou photoréalisme
+        * Le motion capture
