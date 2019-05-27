@@ -5,7 +5,7 @@
     - [Le stop-motion](animation3d/stopmotion.md)
     - La pixilation
     
-2. [L'animation par ordinateur](animation/3/parordinateur.md)
+2. [L'animation par ordinateur](animation3d/3/parordinateur.md)
 
     - L'animation et effets spéciaux numériques
     
