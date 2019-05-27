@@ -20,7 +20,9 @@
         
 ---------------------------------------------------
 
-# Le stop-motion
+# L'animation en volume ou 3D réel
+
+## Le stop-motion
 
 Définition du principe du stop-motion.
 
