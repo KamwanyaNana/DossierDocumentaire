@@ -16,7 +16,7 @@
     
         * L'organic motion
         * Le ray tracing ou photoréalisme
-        * [Le motion capture](3/3.2/3.2.3/motioncapture.md)
+        * [Le motion capture](motioncapture.md)
         
 ---------------------------------------------------
 
@@ -32,8 +32,8 @@ Première référence :
 
 #### BOYER, Floriane. "Dossier - Cinéma d'animation : Les premières images de synthèse" [en ligne]. In _Futura_. Publié le 1 octobre 2018 [consulté le 5 mai 2019]. Disponible sur le Web : [https://www.futura-sciences.com/tech/dossiers/technologie-cinema-animation-techniques-plus-grands-films-2537/](https://www.futura-sciences.com/tech/dossiers/technologie-cinema-animation-techniques-plus-grands-films-2537/page/4)
 
-![le stop-motion](stopmotionfutura.JPG "Les premières images de synthèse artisanale")
+![le stop-motion](images/stopmotionfutura.JPG "Les premières images de synthèse artisanale")
 
 Deuxième référence :
 
-![Le Monde du stop-motion](mondedustopmotion.JPG "Le monde du stop-motion")
+![Le Monde du stop-motion](images/mondedustopmotion.JPG "Le monde du stop-motion")
