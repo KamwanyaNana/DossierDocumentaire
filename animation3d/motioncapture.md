@@ -20,7 +20,7 @@
         
 ---------------------------------------------------
 
-# L'ANIMATION PAR ORDINATAUR Les images de synthèse
+# Les images de synthèse L'ANIMATION PAR ORDINATAUR
 
 ## Le motion capture
 
