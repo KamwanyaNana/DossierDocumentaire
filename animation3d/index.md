@@ -12,7 +12,7 @@ Espace pour mon introduction sur le sujet (aller la chercher sur LaTeX).
 1. [L'animation en volume ou 3D réel](envolume.md)
 
     - [Le stop-motion](stopmotion.md)
-    - La pixilation
+    - [La pixilation](pixilation.md)
     
 2. L'animation par ordinateur
 
