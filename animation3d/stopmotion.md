@@ -16,7 +16,7 @@
     
         * L'organic motion
         * Le ray tracing ou photoréalisme
-        * Le motion capture
+        * [Le motion capture](3/3.2/3.2.3/motioncapture.md)
         
 ---------------------------------------------------
 
