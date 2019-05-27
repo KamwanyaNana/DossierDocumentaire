@@ -1,6 +1,7 @@
 #Le stop-motion
 
-Défénition.
+Définition du stop-motion.
 
-Première référence du _Monde du stop-motion_.
-![Le monde du stop-motion](/images/mondestopmtion.JPG)
+Début de cette partie du plan de classement :
+
+Première référence ![_Le Monde du stop-motion_](images/mondestopmotion.JPG)
