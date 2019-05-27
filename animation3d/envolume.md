@@ -15,6 +15,7 @@
         * L'organic motion
         * Le ray tracing ou photoréalisme
         * Le motion capture
+        
 ---------------------------------------------------
 
 # L'animation en volume ou en 3D réel
