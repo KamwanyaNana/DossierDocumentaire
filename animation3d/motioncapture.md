@@ -36,3 +36,17 @@ Début de référence :
 ![Le motion capture, les différentes méthodes.](images/motioncapturetech4.JPG "Le motion capture, les différentes méthodes.")
 
 Suite des références :
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/watch?v=v7uH_ThCCOA" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
+<object width="425" height="350">
+  <param name="movie" value="https://www.youtube.com/watch?v=v7uH_ThCCOA"/>
+  <param name="wmode" value="transparent"/>
+  <embed src="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350"/>
+</object>
