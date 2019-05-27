@@ -26,6 +26,6 @@ Explication du principe de base.
 
 Début des références :
 
-![Encyclopédie Larousse](images/imgsynthèse.JPG "Les principes du traitement et de la synthèse d’images")
+![Encyclopédie Larousse](images/imgsynthese.JPG "Les principes du traitement et de la synthèse d’images")
 
 Suite des références :
