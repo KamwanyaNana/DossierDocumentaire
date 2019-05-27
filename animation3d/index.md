@@ -10,6 +10,8 @@ Endroit de mon introduction (aller la chercher sur LaTeX).
 
 1. [L'animation en volume ou 3D réel](envolume.md)
 
+Plutôt l'introduction sur le sujet ici ?
+
     - [Le stop-motion](stopmotion.md)
     - La pixilation
     
