@@ -52,3 +52,5 @@ allowfullscreen></iframe>
 </object>
 
 [![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=v7uH_ThCCOA)](https://www.youtube.com/watch?v=v7uH_ThCCOA)
+
+![image alt text](https://www.youtube.com/watch?v=v7uH_ThCCOA)
