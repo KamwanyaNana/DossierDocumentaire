@@ -46,7 +46,9 @@ allowfullscreen></iframe>
 <object width="425" height="350">
   <param name="movie" value="https://www.youtube.com/watch?v=v7uH_ThCCOA"/>
   <param name="wmode" value="transparent"/>
-  <embed src="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg"
+  <embed src="https://www.youtube.com/watch?v=v7uH_ThCCOA"
          type="application/x-shockwave-flash"
          wmode="transparent" width="425" height="350"/>
 </object>
+
+[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=v7uH_ThCCOA)](https://www.youtube.com/watch?v=v7uH_ThCCOA)
