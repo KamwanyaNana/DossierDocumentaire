@@ -1,6 +1,6 @@
-# L'animation en volume ou en 3D réelle
+# L'animation en volume ou en 3D réel
 
-Introduction sur l'animation en volume ou 3D réelle.
+Introduction sur l'animation en volume ou 3D réel.
 
 Début de cette partie du plan de classement :
 
