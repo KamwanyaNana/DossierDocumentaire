@@ -1,6 +1,6 @@
 # Le stop-motion
 
-Définition du stop-motion.
+Définition/introduction du/sur stop-motion.
 
 Début de cette partie du plan de classement :
 
