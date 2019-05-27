@@ -2,7 +2,6 @@
 
 
 
-
 Endroit de mon introduction (aller la chercher sur LaTeX).
 
 
