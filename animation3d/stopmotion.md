@@ -9,4 +9,5 @@ Première référence sur :
 L'animation en volume artisanale, ![le stop-motion](/images/stopmotionfutura.JPG "Les premières images de synthèse artisanale")
 
 ![Le Monde du stop-motion](/images/mondedustopmotion.JPG "Le monde du stop-motion")
+
 ![Le logo de Framasoft](https://framasoft.org/nav/img/logo.png "Un bien beau logo !")
