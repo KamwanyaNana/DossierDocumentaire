@@ -1,1 +1,31 @@
-imgsynthèse.JPG
+1. [Introduction à l'animation](index.md)
+1. [L'animation en volume ou 3D réel](envolume.md)
+
+    - [Le stop-motion](stopmotion.md)
+    - La pixilation
+    
+2. L'animation par ordinateur
+
+    - L'animation et effets spéciaux numériques
+    
+        * La 2D
+        * La 3D
+        
+    - **Les images de synthèse**    
+        * L'organic motion
+        * Le ray tracing ou photoréalisme
+        * [Le motion capture](motioncapture.md)
+        
+------------------------------------------------------
+
+# L'animation par ordinateur
+
+## Les images de synthèse
+
+Explication du principe de base.
+
+Début des références :
+
+![Encyclopédie Larousse](images/imgsynthèse.JPG "Les principes du traitement et de la synthèse d’images")
+
+Suite des références :
