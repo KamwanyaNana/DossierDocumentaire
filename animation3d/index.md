@@ -8,7 +8,7 @@ Endroit de mon introduction (aller la chercher sur LaTeX).
 ## Le plan de classement
 
 
-1. L'animation en volume ou 3D réel
+1. [L'animation en volume ou 3D réel](animation3d/envolume.md)
 
     - [Le stop-motion](stopmotion.md)
     - La pixilation
