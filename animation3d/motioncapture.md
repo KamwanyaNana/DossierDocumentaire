@@ -36,6 +36,8 @@ Début de référence :
 ![Le motion capture, les différentes méthodes.](images/motioncapturetech3.JPG "Le motion capture, les différentes méthodes.")
 ![Le motion capture, les différentes méthodes.](images/motioncapturetech4.JPG "Le motion capture, les différentes méthodes.")
 
+<br/>
+
 Suite des références :
 
 <iframe width="560" height="315"
