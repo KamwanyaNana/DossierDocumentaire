@@ -9,7 +9,7 @@
 
     - **L'animation et effets spéciaux numériques**
     
-        * [La 2D](2d)
+        * [La 2D](2d.md)
         * [La 3D](3d.md)
         
     - [Les images de synthèse](imagesdesynthèse.md)    
