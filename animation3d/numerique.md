@@ -9,10 +9,10 @@
 
     - **L'animation et effets spéciaux numériques**
     
-        * La 2D
-        * La 3D
+        * [La 2D](2d)
+        * [La 3D](3d.md)
         
     - [Les images de synthèse](imagesdesynthèse.md)    
-        * L'organic motion
-        * Le ray tracing ou photoréalisme
+        * [L'organic motion](organicmotion.md)
+        * [Le ray tracing ou photoréalisme](photorealisme.md)
         * [Le motion capture](motioncapture.md)
