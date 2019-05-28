@@ -24,10 +24,10 @@
 
 Explication du principe de base.
 
-Début des références :
+
 
 #### LAROUSSE.  "Image de synthèse" [en ligne]. [Consulté le 19 mai 2019]. Disponible sur le Web : [<http://www.larousse.fr/encyclopedie/divers/image_de_synthèse/185998>](http://www.larousse.fr/encyclopedie/divers/image_de_synthèse/185998)
 
 ![Encyclopédie Larousse](images/imgsynthese.JPG "Les principes du traitement et de la synthèse d’images")
 
-Suite des références :
+#### Suite des références
