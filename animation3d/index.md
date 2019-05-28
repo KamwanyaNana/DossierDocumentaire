@@ -14,7 +14,7 @@ Espace pour mon introduction sur le sujet (aller la chercher sur LaTeX).
     - [Le stop-motion](stopmotion.md)
     - [La pixilation](pixilation.md)
     
-2. L'animation par ordinateur
+2. [L'animation par ordinateur](parordinateur.md)
 
     - L'animation et effets spéciaux numériques
     
