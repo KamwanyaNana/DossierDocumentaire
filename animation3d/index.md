@@ -16,7 +16,7 @@ Espace pour mon introduction sur le sujet (aller la chercher sur LaTeX).
     
 2. [L'animation par ordinateur](parordinateur.md)
 
-    - L'animation et effets spéciaux numériques
+    - [L'animation et effets spéciaux numériques](numerique.md)
     
         * La 2D
         * La 3D
