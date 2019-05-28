@@ -25,6 +25,11 @@
 
 Explication au sujet.
 
-Début des références :
+#### Capture de la cascade du film d'animation Spirit.
 
-Suite des références :
+![Capture de la cascade de Spirit.](effetsspeciaux.JPG)
+
+![Capture de la cascade de Spirit.](effetsspeciauxII.JPG)
+> _Note des dires intéressants et explicatifs du principe._
+
+#### Suite des références
