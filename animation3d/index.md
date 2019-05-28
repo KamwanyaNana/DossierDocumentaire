@@ -18,7 +18,7 @@ Espace pour mon introduction sur le sujet (aller la chercher sur LaTeX).
 
     - [L'animation et effets spéciaux numériques](numerique.md)
     
-        * La 2D
+        * [La 2D](2d.md)
         * La 3D
         
     - [Les images de synthèse](imagesdesynthèse.md)    
