@@ -7,7 +7,7 @@ Espace pour mon introduction sur le sujet (aller la chercher sur LaTeX).
 ## Le plan de classement
 
 
-1. **Introduction à l'animation**
+**Introduction à l'animation**
 
 1. [L'animation en volume ou 3D réel](envolume.md)
 
