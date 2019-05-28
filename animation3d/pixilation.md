@@ -1,4 +1,4 @@
-1. [Introduction à l'animation](inde.md)
+[Introduction à l'animation](inde.md)
 
 1. [L'animation en volume ou 3D réel](envolume.md)
 
