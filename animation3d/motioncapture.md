@@ -3,24 +3,25 @@
 1. [L'animation en volume ou 3D réel](envolume.md)
 
     - [Le stop-motion](stopmotion.md)
-    - La pixilation
+    - [La pixilation](pixilation.md)
     
-2. L'animation par ordinateur
+2. [L'animation par ordinateur](parordinateur.md)
 
-    - L'animation et effets spéciaux numériques
+    - [L'animation et effets spéciaux numériques](numerique.md)
     
-        * La 2D
-        * La 3D
+        * [La 2D](2d.md)
+        * [La 3D](3d.md)
         
-    - Les images de synthèse
+    - [Les images de synthèse](imagesdesynthèse.md)
     
-        * L'organic motion
-        * Le ray tracing ou photoréalisme
+        * [L'organic motion](organicmotion.md)
+        * [Le ray tracing ou photoréalisme](photorealisme.md)
         * **Le motion capture**
         
 ---------------------------------------------------
 
-# Les images de synthèse _ L'ANIMATION PAR ORDINATEUR
+# L'ANIMATION PAR ORDINATEUR
+# Les images de synthèse
 
 ## Le motion capture
 
