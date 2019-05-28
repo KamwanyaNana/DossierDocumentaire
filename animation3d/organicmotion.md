@@ -16,3 +16,14 @@
         * **L'organic motion**
         * [Le ray tracing ou photoréalisme](photorealisme.md)
         * [Le motion capture](motioncapture.md)
+
+------------------------------------------------------------------
+
+# L'ANIMATION PAR ORDINATEUR
+
+# Les images de synthèse
+
+## L'organic motion
+
+Explication blablabla...
+
