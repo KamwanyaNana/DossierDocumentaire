@@ -19,9 +19,9 @@ Espace pour mon introduction sur le sujet (aller la chercher sur LaTeX).
     - [L'animation et effets spéciaux numériques](numerique.md)
     
         * [La 2D](2d.md)
-        * La 3D
+        * [La 3D](3d.md)
         
     - [Les images de synthèse](imagesdesynthèse.md)    
-        * L'organic motion
-        * Le ray tracing ou photoréalisme
+        * [L'organic motion](organicmotion.md)
+        * [Le ray tracing ou photoréalisme](photorealisme.md)
         * [Le motion capture](motioncapture.md)
