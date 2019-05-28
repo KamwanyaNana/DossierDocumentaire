@@ -16,3 +16,15 @@
         * [L'organic motion](organicmotion.md)
         * [Le ray tracing ou photoréalisme](photorealisme.md)
         * [Le motion capture](motioncapture.md)
+
+------------------------------------------------------------------
+
+# L'animation par ordinateur
+
+## L'animation et effets spéciaux numériques
+
+Explication au sujet.
+
+Début des références :
+
+Suite des références :
