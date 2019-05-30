@@ -53,10 +53,10 @@ Explicationet précision du sujet.
 Suite des références :
 
 <iframe width="560" height="315"
-    src="https://www.youtube.com/watch?v=v7uH_ThCCOA" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen></iframe>
+src="https://www.youtube.com/watch?v=v7uH_ThCCOA" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 
 <object width="425" height="350">
   <param name="movie" value="https://www.youtube.com/watch?v=v7uH_ThCCOA"/>
