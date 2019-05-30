@@ -1,13 +1,11 @@
 # L'animation 3D
 
+## Introduction à l'animation
+
 Espace pour mon introduction sur le sujet (aller la chercher sur LaTeX).
-
+<br/>
 --------------------------------------------------------------
-
-## Le plan de classement
-
-
-**Introduction à l'animation**
+<br/>
 
 1. [L'animation en volume ou 3D réel](envolume.md)
 
