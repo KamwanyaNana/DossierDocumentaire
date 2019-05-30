@@ -1,3 +1,5 @@
+<br/>
+
 # L'animation 3D
 
 ## Introduction à l'animation
@@ -28,3 +30,5 @@ Espace pour mon introduction sur le sujet (aller la chercher sur LaTeX).
         * [L'organic motion](organicmotion.md)
         * [Le ray tracing ou photoréalisme](photorealisme.md)
         * [Le motion capture](motioncapture.md)
+
+<br/>
