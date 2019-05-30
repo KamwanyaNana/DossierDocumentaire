@@ -1,3 +1,9 @@
+<br/>
+
+#### Vous êtes ici
+
+<br/>
+
 [Introduction à l'animation](index.md)
 
 1. [L'animation en volume ou 3D réel](envolume.md)
@@ -17,13 +23,21 @@
         * [Le ray tracing ou photoréalisme](photorealisme.md)
         * [Le motion capture](motioncapture.md)
 
+<br/>
+
 ------------------------------------------------------------------
+
+<br/>
 
 # L'animation par ordinateur
 
 ## L'animation et effets spéciaux numériques
 
+<br/>
+
 Explication au sujet.
+
+<br/>
 
 #### Capture de la cascade du film d'animation Spirit.
 
@@ -32,4 +46,8 @@ Explication au sujet.
 ![Capture de la cascade de Spirit.](images/effetsspeciauxII.JPG)
 > _Note des dires intéressants et explicatifs du principe._
 
+<br/>
+
 #### Suite des références
+
+<br/>
