@@ -1,3 +1,9 @@
+<br/>
+
+### Vous êtes ici
+
+<br/>
+
 [Introduction à l'animation](index.md)
 
 1. **L'animation en volume ou 3D réel**
@@ -17,18 +23,29 @@
         * [L'organic motion](organicmotion.md)
         * [Le ray tracing ou photoréalisme](photorealisme.md)
         * [Le motion capture](motioncapture.md)
-        
+
+<br/>
+
 ---------------------------------------------------
+
+<br/>
 
 # L'animation en volume ou en 3D réel
 
+<br/>
+
 Introduction sur l'animation en volume ou 3D réel.
+
+<br/>
 
 Début de cette partie du plan de classement :
 
-Première référence générale d'introduction :
+<br/>
 
+Première référence générale d'introduction :
 
 #### BOYER, Floriane. "Cinéma d'animation : les techniques des plus grands films" [en ligne]. In _Futura_. Publié le 1 octobre 2018 [consulté le 5 mai 2019]. Disponible sur le Web : [https://www.futura-sciences.com/tech/dossiers/technologie-cinema-animation-techniques-plus-grands-films-2537/](https://www.futura-sciences.com/tech/dossiers/technologie-cinema-animation-techniques-plus-grands-films-2537/)
 
 ![Futura, introduction sur le sujet](images/animationenvolume.JPG "La diversité des techniques d'animation.")
+
+<br/>
