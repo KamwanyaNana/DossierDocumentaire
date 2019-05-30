@@ -18,7 +18,8 @@
         * [La 2D](2d)
         * [La 3D](3d.md)
         
-    - [Les images de synthèse](imagesdesynthèse.md)    
+    - [Les images de synthèse](imagesdesynthèse.md)
+    
         * [L'organic motion](organicmotion.md)
         * **Le ray tracing ou photoréalisme**
         * [Le motion capture](motioncapture.md)
