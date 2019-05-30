@@ -3,8 +3,11 @@
 ## Introduction à l'animation
 
 Espace pour mon introduction sur le sujet (aller la chercher sur LaTeX).
+
 <br/>
+
 --------------------------------------------------------------
+
 <br/>
 
 1. [L'animation en volume ou 3D réel](envolume.md)
