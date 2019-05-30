@@ -1,3 +1,9 @@
+<br/>
+
+### Vous êtes ici
+
+<br/>
+
 [Introduction à l'animation](index.md)
 
 1. [L'animation en volume ou 3D réel](envolume.md)
@@ -17,17 +23,23 @@
         * [L'organic motion](organicmotion.md)
         * [Le ray tracing ou photoréalisme](photorealisme.md)
         * **Le motion capture**
-        
+
+<br/>
+
 ---------------------------------------------------
+
+<br/>
 
 # L'ANIMATION PAR ORDINATEUR
 # Les images de synthèse
 
 ## Le motion capture
 
+<br/>
+
 Explicationet précision du sujet.
 
-Début de référence :
+<br/>
 
 #### A-RENAUD. "Tout savoir sur la motion capture, une technologie en plein boom !" [en ligne]. In _Réalité-virtuelle.com : le magazine des professionels de la réalité virtuelle & augmentée_. Publié le 17 janvier 2016 [consulté le 5 mai 2019]. Disponible sur le Web : <https://www.realite-virtuelle.com/tout-savoir-motion-capture>
 
@@ -41,10 +53,10 @@ Début de référence :
 Suite des références :
 
 <iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=v7uH_ThCCOA" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+    src="https://www.youtube.com/watch?v=v7uH_ThCCOA" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen></iframe>
 
 <object width="425" height="350">
   <param name="movie" value="https://www.youtube.com/watch?v=v7uH_ThCCOA"/>
@@ -57,3 +69,5 @@ allowfullscreen></iframe>
 [![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=v7uH_ThCCOA)](https://www.youtube.com/watch?v=v7uH_ThCCOA)
 
 ![image alt text](https://www.youtube.com/watch?v=v7uH_ThCCOA)
+
+<br/>
