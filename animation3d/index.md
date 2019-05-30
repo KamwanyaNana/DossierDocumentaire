@@ -2,6 +2,8 @@
 
 ## Introduction à l'animation
 
+<br/>
+
 Espace pour mon introduction sur le sujet (aller la chercher sur LaTeX).
 
 <br/>
