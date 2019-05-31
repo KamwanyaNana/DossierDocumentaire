@@ -41,8 +41,8 @@ Explication brève.
 <br/>
 
 #### CHARLIER, Mathieu. "[MàJ] DirectX Raytracing, un rendu encore plus réaliste pour les jeux" [en ligne]. In _Les numériques_. Publié le 21 mars 2018 [consulté le 19 mai 2019]. Disponible sur le Web : <https://www.lesnumeriques.com/loisirs/directx-raytracing-rendu-toujours-plus-realiste-pour-jeux-n72623.html>
-
 ![Article des Numériques sur le Ray tracing](images/raytracing.JPG "Le Raytracing, encore plus de réalisme pour les jeux")
+![Article des Numériques sur le Ray tracing](images/raytracingII.JPG "Le Raytracing, encore plus de réalisme pour les jeux")
 
 <br/>
 
