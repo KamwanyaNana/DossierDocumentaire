@@ -46,7 +46,7 @@ Explication brève.
 
 <br/>
 
-##### Deuxième référence :
+##### Deuxième référence
 
 <br/>
 
