@@ -31,6 +31,7 @@
 <br/>
 
 # L'ANIMATION PAR ORDINATEUR
+
 # Les images de synthèse
 
 ## Le motion capture
