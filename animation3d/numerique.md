@@ -39,7 +39,7 @@ Explication au sujet.
 
 <br/>
 
-#### Capture de la cascade du film d'animation Spirit.
+##### Capture de la cascade du film d'animation Spirit.
 
 ![Capture de la cascade de Spirit.](images/effetsspeciaux.JPG)
 
@@ -48,6 +48,6 @@ Explication au sujet.
 
 <br/>
 
-#### Suite des références
+###### Suite des références
 
 <br/>
