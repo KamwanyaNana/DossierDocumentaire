@@ -50,6 +50,6 @@ Explication brève.
 
 <br/>
 
-###### Troisième référence :
+###### Troisième référence
 
 <br/>
