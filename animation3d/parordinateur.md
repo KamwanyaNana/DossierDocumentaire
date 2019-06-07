@@ -37,7 +37,7 @@ Définition générale de la technique et ses variantes.
 
 <br/>
 
-Début des références :
+##### Début des références :
 
 !["Design considerations for creating eLearning animations" by Sameer Suhas Sahasrabudhe](images/elearninganimationI.JPG "Design considerations for creating eLearning animations - Table of contents")
 !["Design considerations for creating eLearning animations" by Sameer Suhas Sahasrabudhe](images/elearninganimationII.JPG "Design considerations for creating eLearning animations - Table of contents")
@@ -45,6 +45,6 @@ Début des références :
 
 <br>
 
-Suite des références :
+##### Suite des références :
 
 <br/>
