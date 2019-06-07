@@ -51,3 +51,7 @@ Explication du principe de base.
 ![Images de synthèse : des progrès... dans le brouillard](images/lumiere.JPG "L'algorithme lumière")
 
 <br/>
+
+##### MARTIN, Philippe et MARTIN, Dominique. « Images numérique et image de synthèse » [en ligne]. In Encyclopædia Universalis. [Consulté le 19 mai 2019]. Disponible sur le Web: [https://www.universalis.fr/encyclopedie/image-numerique-et-image-de-synthese/2-l-image-de-synthese/](https://www.universalis.fr/encyclopedie/image-numerique-et-image-de-synthese/2-l-image-de-synthese/)
+
+![L'image de synthèse](images/imagesynthese.JPG "Image numérique et image de synthèse")
