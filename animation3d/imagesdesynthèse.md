@@ -55,3 +55,5 @@ Explication du principe de base.
 ##### MARTIN, Philippe et MARTIN, Dominique. « Images numérique et image de synthèse » [en ligne]. In _Encyclopædia Universalis_. [Consulté le 19 mai 2019]. Disponible sur le Web: [https://www.universalis.fr/encyclopedie/image-numerique-et-image-de-synthese/2-l-image-de-synthese/](https://www.universalis.fr/encyclopedie/image-numerique-et-image-de-synthese/2-l-image-de-synthese/)
 
 ![L'image de synthèse](images/imagesynthese.JPG "Image numérique et image de synthèse")
+
+<br>
