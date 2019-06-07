@@ -46,6 +46,11 @@ Définition du principe du stop-motion.
 
 <br/>
 
+##### NEBOR, Céline. « Le stop-motion : comment réaliser un court métrage pour Noël » [en ligne]. In Les numériques. Publié le 26 décembre 2014 [consulté le 19 mai 2019]. Disponible sur le Web: [https://www.lesnumeriques.com/appareil-photo-numerique/stop-motion-comment-realiser-court-metrage-pour-noel-a1981.html](https://www.lesnumeriques.com/appareil-photo-numerique/stop-motion-comment-realiser-court-metrage-pour-noel-a1981.html)
+
+![Le stop motion, qu'est-ce que c'est ?](images/stopmotion.JPG "Le stop-motion")
+![Quels sont les avantages et inconvénients du stop motion ?](images/avantagestopmotion.JPG "Le stop-motion")
+
 ###### Deuxième référence :
 
 ![Le Monde du stop-motion](images/mondedustopmotion.JPG "Le monde du stop-motion")
