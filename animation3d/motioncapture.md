@@ -57,3 +57,5 @@ Explicationet précision du sujet.
 ##### STRUMAN, David J. _A brief history of motion capture for computer character animation_ [en ligne]. Paris : Médialab, mis à jour le 13 mars 1999 [consulté le 19 mai 2019]. Disponible sur le Web : [https://www.siggraph.org/education/materials/HyperGraph/animation/character_animation/motion_capture/history1.htm](https://www.siggraph.org/education/materials/HyperGraph/animation/character_animation/motion_capture/history1.htm)
 
 ![A brief history of motion capture for computer character animation](images/motioncapturehistory.JPG "A brief history of motion capture for computer character animation")
+
+<br>
