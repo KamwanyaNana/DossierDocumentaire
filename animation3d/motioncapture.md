@@ -48,7 +48,7 @@ Explicationet précision du sujet.
 
 <br/>
 
-###### SERVICK, Kelly. « ScienceShot: Making virtual humans dance » [en ligne]. _Sciencemag_. Publié le 14 février 2014 [consulté le 20 mai 2019], posté dans Technology, AAAS 2014. Disponible sur le Web : <https://www.sciencemag.org/news/2014/02/scienceshot-making-virtual-humans-dance>
+##### SERVICK, Kelly. « ScienceShot: Making virtual humans dance » [en ligne]. _Sciencemag_. Publié le 14 février 2014 [consulté le 20 mai 2019], posté dans Technology, AAAS 2014. Disponible sur le Web : <https://www.sciencemag.org/news/2014/02/scienceshot-making-virtual-humans-dance>
 
 ![Making virtual humans dance](images/motioncapturedance.JPG "Making virtual humans dance")
 
