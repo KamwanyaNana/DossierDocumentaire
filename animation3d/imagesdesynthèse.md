@@ -39,12 +39,6 @@ Explication du principe de base.
 
 <br/>
 
-##### LAROUSSE.  « Image de synthèse » [en ligne]. [Consulté le 19 mai 2019]. Disponible sur le Web : [http://www.larousse.fr/encyclopedie/divers/image_de_synthèse/185998](http://www.larousse.fr/encyclopedie/divers/image_de_synthèse/185998)
-
-![Encyclopédie Larousse](images/imgsynthese.JPG "Les principes du traitement et de la synthèse d’images")
-
-<br/>
-
 ##### GOUDET, Jean-Luc. « Images de synthèse : des progrès... dans le brouillard » [en ligne]. In _Futura Tech_. Publié le 21 avril 2008 [consulté le 19 mai 2019]. Disponible sur le Web : [https://www.futura-sciences.com/tech/actualites/informatique-images-synthese-progres-brouillard-15298/](https://www.futura-sciences.com/tech/actualites/informatique-images-synthese-progres-brouillard-15298/)
 
 ![Images de synthèse : des progrès... dans le brouillard](images/diffusionlumiere.JPG "L'algorithme lumière")
@@ -52,6 +46,12 @@ Explication du principe de base.
 
 <br/>
 
-##### MARTIN, Philippe et MARTIN, Dominique. « Images numérique et image de synthèse » [en ligne]. In Encyclopædia Universalis. [Consulté le 19 mai 2019]. Disponible sur le Web: [https://www.universalis.fr/encyclopedie/image-numerique-et-image-de-synthese/2-l-image-de-synthese/](https://www.universalis.fr/encyclopedie/image-numerique-et-image-de-synthese/2-l-image-de-synthese/)
+##### LAROUSSE.  « Image de synthèse » [en ligne]. [Consulté le 19 mai 2019]. Disponible sur le Web : [http://www.larousse.fr/encyclopedie/divers/image_de_synthèse/185998](http://www.larousse.fr/encyclopedie/divers/image_de_synthèse/185998)
+
+![Encyclopédie Larousse](images/imgsynthese.JPG "Les principes du traitement et de la synthèse d’images")
+
+<br/>
+
+##### MARTIN, Philippe et MARTIN, Dominique. « Images numérique et image de synthèse » [en ligne]. In _Encyclopædia Universalis_. [Consulté le 19 mai 2019]. Disponible sur le Web: [https://www.universalis.fr/encyclopedie/image-numerique-et-image-de-synthese/2-l-image-de-synthese/](https://www.universalis.fr/encyclopedie/image-numerique-et-image-de-synthese/2-l-image-de-synthese/)
 
 ![L'image de synthèse](images/imagesynthese.JPG "Image numérique et image de synthèse")
