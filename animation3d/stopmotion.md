@@ -40,7 +40,7 @@ Définition du principe du stop-motion.
 
 <br/>
 
-##### BOYER, Floriane. "Dossier - Cinéma d'animation : Les premières images de synthèse" [en ligne]. In _Futura_. Publié le 1 octobre 2018 [consulté le 5 mai 2019]. Disponible sur le Web : [https://www.futura-sciences.com/tech/dossiers/technologie-cinema-animation-techniques-plus-grands-films-2537/](https://www.futura-sciences.com/tech/dossiers/technologie-cinema-animation-techniques-plus-grands-films-2537/page/4)
+##### BOYER, Floriane. « Dossier - Cinéma d'animation : Les premières images de synthèse » [en ligne]. In _Futura_. Publié le 1 octobre 2018 [consulté le 5 mai 2019]. Disponible sur le Web : [https://www.futura-sciences.com/tech/dossiers/technologie-cinema-animation-techniques-plus-grands-films-2537/](https://www.futura-sciences.com/tech/dossiers/technologie-cinema-animation-techniques-plus-grands-films-2537/page/4)
 
 ![le stop-motion](images/stopmotionfutura.JPG "Les premières images de synthèse artisanale")
 
@@ -50,6 +50,8 @@ Définition du principe du stop-motion.
 
 ![Le stop motion, qu'est-ce que c'est ?](images/stopmotion.JPG "Le stop-motion")
 ![Quels sont les avantages et inconvénients du stop motion ?](images/avantagestopmotion.JPG "Le stop-motion")
+
+<br>
 
 ###### Deuxième référence :
 
