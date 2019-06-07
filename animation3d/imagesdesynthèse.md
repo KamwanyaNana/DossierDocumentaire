@@ -49,4 +49,5 @@ Explication du principe de base.
 
 ![Images de synthèse : des progrès... dans le brouillard](images/diffusionlumiere.JPG "L'algorithme lumière")
 ![Images de synthèse : des progrès... dans le brouillard](images/lumiere.JPG "L'algorithme lumière")
+
 <br/>
