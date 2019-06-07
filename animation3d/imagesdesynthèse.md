@@ -45,7 +45,7 @@ Explication du principe de base.
 
 <br/>
 
-##### GOUDET, Jean-Luc. « Images de synthèse : des progrès... dans le brouillard » [en ligne]. In _Futura Tech_. Publié le 21 avril 2008 [consulté le 19 mai 2019]. Disponible sur le Web : <https://www.futura-sciences.com/tech/actualites/informatique-images-synthese-progres-brouillard-15298/>
+##### GOUDET, Jean-Luc. « Images de synthèse : des progrès... dans le brouillard » [en ligne]. In _Futura Tech_. Publié le 21 avril 2008 [consulté le 19 mai 2019]. Disponible sur le Web : [https://www.futura-sciences.com/tech/actualites/informatique-images-synthese-progres-brouillard-15298/]
 
 ![Images de synthèse : des progrès... dans le brouillard](images/diffusionlumiere.JPG "L'algorithme lumière")
 
