@@ -46,6 +46,6 @@ eLearning animations_ [en ligne]. IIT Bombay, 2013 [consulté le 30 mai 2019]. D
 
 <br>
 
-##### Suite des références :
+##### Suite des références
 
 <br/>
