@@ -51,7 +51,7 @@ Explication brève.
 ##### BLOG BY MATERIEL.NET. « Ray tracing ; le prochain standard visuel du jeu vidéo » [en ligne]. Publié le 14 mai 2018 [consulté le 19 mai 2019]. Disponible sur le Web : [https://blog.materiel.net/ray-tracing-le-prochain-standard-visuel-du-jeu-video/](https://blog.materiel.net/ray-tracing-le-prochain-standard-visuel-du-jeu-video/)
 
 ![Ray tracing ; le prochain standard visuel du jeu vidéo](images/rayI.JPG "Ray tracing ; le prochain standard visuel du jeu vidéo")
-![Ray tracing ; le prochain standard visuel du jeu vidéo](images/raytracingI.JPG "Ray tracing ; le prochain standard visuel du jeu vidéo")
+![Ray tracing ; le prochain standard visuel du jeu vidéo](images/rtracing.JPG "Ray tracing ; le prochain standard visuel du jeu vidéo")
 ![Ray tracing ; le prochain standard visuel du jeu vidéo](images/rayII.JPG "Ray tracing ; le prochain standard visuel du jeu vidéo")
 
 <br/>
