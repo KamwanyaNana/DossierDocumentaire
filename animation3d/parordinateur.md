@@ -38,7 +38,7 @@ Définition générale de la technique et ses variantes.
 <br/>
 
 ##### SAHASRABUDHE, Sameer Suhas. _Design considerations for creating
-eLearning animations_ [en ligne]. IIT Bombay, 2013 [consulté le 30 mai 2019]. Disponible sur le Web : <https://ssameers.files.wordpress.com/2018/07/sameerss_thesis04092015.pdf>. PRN: SR200149
+eLearning animations_ [en ligne]. IIT Bombay, 2013 [consulté le 30 mai 2019]. 271 p. Disponible sur le Web : <https://ssameers.files.wordpress.com/2018/07/sameerss_thesis04092015.pdf>. PRN: SR200149
 
 !["Design considerations for creating eLearning animations" by Sameer Suhas Sahasrabudhe](images/elearninganimationI.JPG "Design considerations for creating eLearning animations - Table of contents")
 !["Design considerations for creating eLearning animations" by Sameer Suhas Sahasrabudhe](images/elearninganimationII.JPG "Design considerations for creating eLearning animations - Table of contents")
