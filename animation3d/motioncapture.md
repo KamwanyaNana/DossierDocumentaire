@@ -46,7 +46,6 @@ Explicationet précision du sujet.
 
 ![Le motion capture, les différentes méthodes.](images/motioncapturesommaireII.JPG "Le motion capture, les différentes méthodes.")
 ![Le motion capture, les différentes méthodes.](images/motioncapturesommaire.JPG "Le motion capture, les différentes méthodes.")
-![Le motion capture, les différentes méthodes.](images/motioncapturetech3.JPG "Le motion capture, les différentes méthodes.")
 
 <br/>
 
