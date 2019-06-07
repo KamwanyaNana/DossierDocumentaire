@@ -52,3 +52,9 @@ Explication au sujet.
 ![Les évolutions du métier d'animateur 3D](images/évolution3d.JPG "En quoi consiste le métier d'animateur 3D")
 
 <br/>
+
+MARTIN, Philippe et MARTIN, Dominique. « Images numérique et image de synthèse » [en ligne]. In _Encyclopædia Universalis_. [Consulté le 19 mai 2019]. Disponible sur le Web: [https://www.universalis.fr/encyclopedie/image-numerique-et-image-de-synthese/1-le-principe-des-images-numeriques/](https://www.universalis.fr/encyclopedie/image-numerique-et-image-de-synthese/1-le-principe-des-images-numeriques/)
+
+![Le principe des images numériques](images/imagenumerique.JPG "Images numérique et image de synthèse")
+
+<br>
