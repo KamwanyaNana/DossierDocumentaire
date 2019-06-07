@@ -45,6 +45,9 @@ Définition générale de la technique et ses variantes.
 
 <br>
 
-##### Suite des références
+##### VALLÉE, Réjane et RENOUARD, Caroline. « Animateur/animatrice 2D et 3d : Témoignage » [en ligne]. In Onisep. 2014 [consulté le 30 mai 2019]. 4 minutes 12 secondes et 2 minutes 26 secondes. Disponible sur le Web : [http://www.onisep.fr/Ressources/Univers-Metier/Metiers/animateur-animatrice-2D-et-3D](http://www.onisep.fr/Ressources/Univers-Metier/Metiers/animateur-animatrice-2D-et-3D)
+
+![Témoignage : animatrice 3D](images/animatrice3d.JPG "Témoignage - animatrice 3D")
+![Témoignage : animateur 3D](images/animateur3d.JPG "Témoignage - animateur 3D")
 
 <br/>
