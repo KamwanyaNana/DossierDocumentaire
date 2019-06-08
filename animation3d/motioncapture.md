@@ -65,3 +65,8 @@ Explicationet précision du sujet.
 ![A brief history of motion capture for computer character animation](images/motioncapturehistory.JPG "A brief history of motion capture for computer character animation")
 
 <br/>
+
+##### WORDPRESS. « La motion capture » [en ligne]. In _Les effets spéciaux numériques_. [Consulté le 5 mai 2019]. Disponible sur le Web: [https://effetsspeciaux.wordpress.com/2012/05/13/la-motion-capture/](https://effetsspeciaux.wordpress.com/2012/05/13/la-motion-capture/)
+
+![La motion capture](images/mocap.JPG "Les effets spéciaux numériques")
+![La motion capture](images/mocapimg.JPG "Les effets spéciaux numériques")
