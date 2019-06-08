@@ -62,7 +62,7 @@ Explication au sujet.
 
 ##### OLATS, Leonardo et CAMACHO, Véronica. « L'animation numérique » [en ligne]. In Leonardo. Publié en octobre 2008 [consulté le 19 mai 2019]. Disponible sur le Web: [http://www.olats.org/livresetudes/basiques/animationnumerique/1_basiquesAN.php#2](http://www.olats.org/livresetudes/basiques/animationnumerique/1_basiquesAN.php#2)
 
-![L'animation numérique](images/animationnum.JPG "L'animation numérique")
+![Table des matières](images/animationnum.JPG "Table des matières")
 
 <br/>
 
