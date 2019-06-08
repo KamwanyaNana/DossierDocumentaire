@@ -48,6 +48,12 @@ Explicationet précision du sujet.
 
 <br/>
 
+##### MOLET, Tom ; HUANG, Zhiyong ; BOULIC, Ronan et THALMANN, Daniel. _An animation interface designed for motion capture_ [en ligne]. Lausanne : IEEE Press, MIRALab, [consulté le 8 juin 2019]. 10 p. Disponible sur le Web : [https://mafiadoc.com/an-animation-interface-designed-for-motion-capture-miralab_5ba66113097c4761288b4662.html](https://mafiadoc.com/an-animation-interface-designed-for-motion-capture-miralab_5ba66113097c4761288b4662.html). ISBN 0-8186-7984-0
+
+![An animation interface designed for motion capture : Abstract](images/humananimation.JPG "Abstract")
+
+<br/>
+
 ##### SERVICK, Kelly. « ScienceShot: Making virtual humans dance » [en ligne]. _Sciencemag_. Publié le 14 février 2014 [consulté le 20 mai 2019], posté dans Technology, AAAS 2014. Disponible sur le Web : <https://www.sciencemag.org/news/2014/02/scienceshot-making-virtual-humans-dance>
 
 ![Making virtual humans dance](images/motioncapturedance.JPG "Making virtual humans dance")
