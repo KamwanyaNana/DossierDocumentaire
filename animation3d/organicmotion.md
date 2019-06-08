@@ -58,6 +58,12 @@ Explication blablabla...
 
 <br/>
 
+##### ORGANIC MOTION. « Organic motion announces the launch of STAGE » [en ligne]. In YouTube. Réalisé en août 20007, publié le 25 juillet 2008 [consulté le 8 juin 2019]. 2 minutes 12 secondes. Disponible sur le Web : [https://www.youtube.com/watch?v=px5_UagJ4_8&feature=youtu.be](https://www.youtube.com/watch?v=px5_UagJ4_8&feature=youtu.be)
+
+![Organic motion announces the launch of STAGE](images/organicmotion.JPG "Organic motion announces the launch of STAGE")
+
+<br/>
+
 ##### Tsui Hark et les combats. In _Di Renjie : Shen du long wang_. Film d’action, aventure et arts martiaux. Réalisé par Tsui Hark, Huayi Corporation. Diffusé le 6 août 2014. 2h 14min
 
 > _« Le cinéma doit conjurer tous les sens. Le cinéma chinois s’internationalise. Il s’inspire beaucoup de sa tradition et de sa culture. Et du wuxia. Quel est le trésor du cinéma chinois ? Le kung-fu, bien sûr. Tsui Hark a son propre style, sa propre vision du kung-fu et du wuxia. Ses créations sont très différent de celle des autres. (...) Cette fois, les difficultés sont nombreuses. On a trois fois plus de scènes de combat. On s’est lancé de vrais défis. Les mouvements inventés par Tsui Hark sont très originaux, différents des gestes habituels. Il aime la nouveauté. Comment faire pour renouveler des gestes vus et revus ? »_
