@@ -70,3 +70,5 @@ Explicationet précision du sujet.
 
 ![La motion capture](images/mocap.JPG "Les effets spéciaux numériques")
 ![La motion capture](images/mocapimg.JPG "Les effets spéciaux numériques")
+
+<br/>
