@@ -43,11 +43,10 @@ Explication blablabla...
 
 ##### Bonus : Tsui Hark et les combats. In _Di Renjie : Shen du long wang_. Film d’action, aventure et arts martiaux. Réalisé par Tsui Hark, Huayi Corporation. Diffusé le 6 août 2014. 2h 14min
 
+![Tsui Hark et les combats](images/detectivedeecombat.JPG "Chorégraphie du combat combat")
 > _« Le cinéma doit conjurer tous les sens. Le cinéma chinois s’internationalise. Il s’inspire beaucoup de sa tradition et de sa culture. Et du wuxia. Quel est le trésor du cinéma chinois ? Le kung-fu, bien sûr. Tsui Hark a son propre style, sa propre vision du kung-fu et du wuxia. Ses créations sont très différents de celle des autres. (...) Cette fois, les difficultés sont nombreuses. On a trois fois plus de scènes de combat. On s’est lancé de vrais défis. Les mouvements inventés par Tsui Hark sont très originaux, différents des gestes habituels. Il aime la nouveauté. Comment faire pour renouveler des gestes vus et revus ? »_
-
 ![Tsui Hark et les combats](images/deecombatI.JPG "Découpage d'une scène de combat")
 ![Tsui Hark et les combats](images/deecombatII.JPG "Découpage d'une scène de combat")
-
 > _« Il a un bon coup de crayon. Comme pour_ II était une fois en Chine, _il a dessiné toute la scène. Lorsque j’ai rencontré Tsui Hark à Pékin, on s’est mis d’accord pour faire preuve de réalisme. On voulait donc que Yuchi soit très bon en voltige. Il lui suffit d’un point d’appui pour ‘’s’envoler’’. Il connaît les points vitaux. Bien sûr le résultat à l’écran est exagéré. (…) Les films d’action chinois en 3D sont rares. »_
 
 <br/>
