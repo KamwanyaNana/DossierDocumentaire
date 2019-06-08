@@ -64,4 +64,4 @@ Explicationet précision du sujet.
 
 ![A brief history of motion capture for computer character animation](images/motioncapturehistory.JPG "A brief history of motion capture for computer character animation")
 
-<br>
+<br/>
