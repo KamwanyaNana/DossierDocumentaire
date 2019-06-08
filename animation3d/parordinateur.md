@@ -45,6 +45,13 @@ Définition générale de la technique et ses variantes.
 
 <br>
 
+##### THALMANN, Nadia Magnenat et THALMANN, Daniel. Computer animation [en ligne]. MIRALab, [consulté le 7 juin 2019]. Disponible sur le Web : [https://mafiadoc.com/computer-animation-miralab_5babbe0f097c4732038b456b.html](https://mafiadoc.com/computer-animation-miralab_5babbe0f097c4732038b456b.html)
+
+![Introduction](images/computeranimationI.JPG "Introduction")
+![Introduction](images/computeranimationII.JPG "Introduction")
+
+<br>
+
 ##### VALLÉE, Réjane ; RENOUARD, Caroline et YUN, Christine. « Animateur/animatrice 2D et 3d : Témoignage » [en ligne]. In Onisep. 2014 [consulté le 30 mai 2019]. 4 minutes 12 secondes et 2 minutes 26 secondes. Disponible sur le Web : [http://www.onisep.fr/Ressources/Univers-Metier/Metiers/animateur-animatrice-2D-et-3D](http://www.onisep.fr/Ressources/Univers-Metier/Metiers/animateur-animatrice-2D-et-3D)
 
 ![Témoignage : animatrice 3D](images/animatrice3d.JPG "Témoignage - animatrice 3D")
