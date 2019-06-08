@@ -56,6 +56,13 @@ Explication brève.
 
 <br/>
 
-###### Troisième référence
+##### HITEK.FR. « Dossier : tout savoir sur le Ray Tracing, l'éblouissante technologie mise en avant par Nvidia » [en ligne]. Publié le 30 août 2018 [consulté le 19 mai 2019]. Disponible sur le Web: [https://hitek.fr/actualite/dossier-tout-savoir-ray-tracing_17175](https://hitek.fr/actualite/dossier-tout-savoir-ray-tracing_17175)
+
+![Le ray tracing, c'est quoi ? À quoi ça sert ?](images/tracingI.JPG "Le ray tracing, c'est quoi ? À quoi ça sert ?")
+![Le ray tracing, c'est quoi ? À quoi ça sert ?](images/tracingII.JPG "Le ray tracing, c'est quoi ? À quoi ça sert ?")
+![Une technologie qui se prête à bien des domaines](images/tracingIII.JPG "Une technologie qui se prête à bien des domaines")
+![Une technologie qui se prête à bien des domaines](images/tracingIV.JPG "Une technologie qui se prête à bien des domaines")
+![Le jeu vidéo et ray tracing](images/tracingV.JPG "Le jeu vidéo et ray tracing")
+![Le jeu vidéo et ray tracing](images/tracingVI.JPG "Le jeu vidéo et ray tracing")
 
 <br/>
