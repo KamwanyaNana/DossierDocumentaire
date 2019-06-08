@@ -46,7 +46,7 @@ Définition générale de la technique et ses variantes.
 
 <br>
 
-##### THALMANN, Nadia Magnenat et THALMANN, Daniel. Computer animation [en ligne]. MIRALab, [consulté le 7 juin 2019]. Disponible sur le Web : [https://mafiadoc.com/computer-animation-miralab_5babbe0f097c4732038b456b.html](https://mafiadoc.com/computer-animation-miralab_5babbe0f097c4732038b456b.html)
+##### THALMANN, Nadia Magnenat et THALMANN, Daniel. _Computer animation_ [en ligne]. Suisse : MIRALab, [consulté le 7 juin 2019]. 32p. Disponible sur le Web : [https://mafiadoc.com/computer-animation-miralab_5babbe0f097c4732038b456b.html](https://mafiadoc.com/computer-animation-miralab_5babbe0f097c4732038b456b.html)
 
 ![Introduction](images/computeranimationI.JPG "Introduction")
 ![Introduction](images/computeranimationII.JPG "Introduction")
