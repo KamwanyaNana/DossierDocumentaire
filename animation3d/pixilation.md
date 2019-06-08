@@ -39,7 +39,10 @@ Explication brève de la technique.
 
 <br/>
 
-#### Début des références :
+##### MAURY, Christophe. « Séance 7 : pixilation et animation d’objets » [en ligne]. In _Upopi : Université populaire des images_. 2014 [consulté le 19 mai 2019]. Disponible sur le Web : [http://upopi.ciclic.fr/transmettre/parcours-pedagogiques/initiation-au-cinema-d-animation/seance-7-pixilation-et-animation-d-objets](http://upopi.ciclic.fr/transmettre/parcours-pedagogiques/initiation-au-cinema-d-animation/seance-7-pixilation-et-animation-d-objets)
+
+![Séance 7 : pixilation et animation d’objets](images/pixilation.JPG "Pixilation et animation d’objets")
+![Séance 7 : pixilation et animation d’objets](images/pixilationprincipe.JPG "Pixilation et animation d’objets")
 
 <br/>
 
