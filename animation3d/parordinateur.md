@@ -38,6 +38,12 @@ Définition générale de la technique et ses variantes.
 
 <br/>
 
+##### CICLIC CENTRE-VAL DE LOIRE. « Séance 9 : animation par ordinateur » [en ligne]. In _Upopi : Université populaire des images. 2014 [consulté le 19 mai 2019]_. Disponible sur le Web : [http://upopi.ciclic.fr/transmettre/parcours-pedagogiques/initiation-au-cinema-d-animation/seance-9-animation-par-ordinateur](http://upopi.ciclic.fr/transmettre/parcours-pedagogiques/initiation-au-cinema-d-animation/seance-9-animation-par-ordinateur)
+
+![Séance 9 : animation par ordinateur](images/animationordi.JPG "Animation par ordinateur")
+
+<br/>
+
 ##### SAHASRABUDHE, Sameer Suhas. _Design considerations for creating eLearning animations_ [en ligne]. IIT Bombay, 2013 [consulté le 30 mai 2019]. 271 p. Disponible sur le Web : <https://ssameers.files.wordpress.com/2018/07/sameerss_thesis04092015.pdf>. PRN: SR200149
 
 !["Design considerations for creating eLearning animations" by Sameer Suhas Sahasrabudhe](images/elearninganimationI.JPG "Design considerations for creating eLearning animations - Table of contents")
