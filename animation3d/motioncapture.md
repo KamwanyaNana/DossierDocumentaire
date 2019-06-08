@@ -48,6 +48,12 @@ Explicationet précision du sujet.
 
 <br/>
 
+##### CICLIC CENTRE-VAL DE LOIRE. « Séance 9 : animation par ordinateur » [en ligne]. In _Upopi : Université populaire des images. 2014 [consulté le 19 mai 2019]_. Disponible sur le Web : [http://upopi.ciclic.fr/transmettre/parcours-pedagogiques/initiation-au-cinema-d-animation/seance-9-animation-par-ordinateur](http://upopi.ciclic.fr/transmettre/parcours-pedagogiques/initiation-au-cinema-d-animation/seance-9-animation-par-ordinateur)
+
+![Séance 9 : animation par ordinateur](images/motioncapture.JPG "Animation par ordinateur")
+
+<br/>
+
 ##### MOLET, Tom ; HUANG, Zhiyong ; BOULIC, Ronan et THALMANN, Daniel. _An animation interface designed for motion capture_ [en ligne]. Lausanne : IEEE Press, MIRALab, [consulté le 8 juin 2019]. 10 p. Disponible sur le Web : [https://mafiadoc.com/an-animation-interface-designed-for-motion-capture-miralab_5ba66113097c4761288b4662.html](https://mafiadoc.com/an-animation-interface-designed-for-motion-capture-miralab_5ba66113097c4761288b4662.html). ISBN 0-8186-7984-0
 
 ![An animation interface designed for motion capture : Abstract](images/humananimation.JPG "Abstract")
