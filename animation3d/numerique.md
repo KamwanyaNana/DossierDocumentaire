@@ -58,7 +58,13 @@ Explication au sujet.
 
 ![Le principe des images numériques](images/imagenumerique.JPG "Images numérique et image de synthèse")
 
-<br>
+<br/>
+
+##### OLATS, Leonardo et CAMACHO, Véronica. « L'animation numérique » [en ligne]. In Leonardo. Publié en octobre 2008 [consulté le 19 mai 2019]. Disponible sur le Web: [http://www.olats.org/livresetudes/basiques/animationnumerique/1_basiquesAN.php#2](http://www.olats.org/livresetudes/basiques/animationnumerique/1_basiquesAN.php#2)
+
+![L'animation numérique](images/animationnum.JPG "L'animation numérique")
+
+<br/>
 
 ##### WORDPRESS. « Les effets spéciaux numériques » [en ligne]. In _Les effets spéciaux numériques_. [Consulté le 5 mai 2019]. Disponible sur le Web: [https://effetsspeciaux.wordpress.com/2012/05/13/les-effets-speciaux-numeriques/](https://effetsspeciaux.wordpress.com/2012/05/13/les-effets-speciaux-numeriques/)
 
