@@ -62,3 +62,5 @@ Explication au sujet.
 ##### WORDPRESS. « Les effets spéciaux numériques » [en ligne]. In _Les effets spéciaux numériques_. [Consulté le 5 mai 2019]. Disponible sur le Web: [https://effetsspeciaux.wordpress.com/2012/05/13/les-effets-speciaux-numeriques/](https://effetsspeciaux.wordpress.com/2012/05/13/les-effets-speciaux-numeriques/)
 
 ![Les effets spéciaux numériques](images/effetsspeciauxnum.JPG "Les effets spéciaux numériques"]
+
+<br/>
