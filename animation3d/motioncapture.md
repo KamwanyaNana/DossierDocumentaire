@@ -54,6 +54,13 @@ Explicationet précision du sujet.
 
 <br/>
 
+##### DEVILLARD, Arnaud. « Pour réaliser "Croc Blanc", motion capture d'un chien et caméra virtuelle » [en ligne]. In _Sciences et Avenir_. Publié le 12 mars 2018 [consulté le 19 mai 2019]. Disponible sur le Web : [https://www.sciencesetavenir.fr/high-tech/pour-realiser-croc-blanc-motion-capture-d-un-chien-et-camera-virtuelle_121874](https://www.sciencesetavenir.fr/high-tech/pour-realiser-croc-blanc-motion-capture-d-un-chien-et-camera-virtuelle_121874)
+
+![Pour réaliser "Croc Blanc", motion capture d'un chien et caméra virtuelle](images/mocaptext.JPG "Motion capture d'un chien")
+![Pour réaliser "Croc Blanc", motion capture d'un chien et caméra virtuelle](images/mocapchien.JPG "Motion capture d'un chien")
+
+<br/>
+
 ##### MOLET, Tom ; HUANG, Zhiyong ; BOULIC, Ronan et THALMANN, Daniel. _An animation interface designed for motion capture_ [en ligne]. Lausanne : IEEE Press, MIRALab, [consulté le 8 juin 2019]. 10 p. Disponible sur le Web : [https://mafiadoc.com/an-animation-interface-designed-for-motion-capture-miralab_5ba66113097c4761288b4662.html](https://mafiadoc.com/an-animation-interface-designed-for-motion-capture-miralab_5ba66113097c4761288b4662.html). ISBN 0-8186-7984-0
 
 ![An animation interface designed for motion capture : Abstract](images/humananimation.JPG "Abstract")
