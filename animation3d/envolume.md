@@ -13,7 +13,7 @@
     
 2. [L'animation par ordinateur](parordinateur.md)
 
-    - [L'animation et effets spéciaux numériques](numérique.md)
+    - [L'animation et effets spéciaux numériques](numerique.md)
     
         * [La 2D](2d.md)
         * [La 3D](3d.md)
