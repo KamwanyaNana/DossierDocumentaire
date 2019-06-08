@@ -45,4 +45,3 @@ Explication brève de la technique.
 ![Séance 7 : pixilation et animation d’objets](images/pixilationprincipe.JPG "Pixilation et animation d’objets")
 
 <br/>
-<br/>
