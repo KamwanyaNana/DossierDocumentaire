@@ -40,14 +40,6 @@ Explication au sujet.
 
 <br/>
 
-##### Capture de la cascade du film d'animation Spirit.
-
-![Capture de la cascade de Spirit.](images/effetsspeciaux.JPG)
-![Capture de la cascade de Spirit.](images/effetsspeciauxII.JPG)
-> _Note des dires intéressants et explicatifs du principe._
-
-<br/>
-
 ###### MJM VIDÉO/ANIMATION. « En quoi consiste le métier d'animateur 3D » [en ligne]. [Consulté le 30 mai 2019]. Disponible sur le Web: <https://www.mjm-video-animation.com/comment-realiser-une-bonne-animation-video/>
 
 ![Les évolutions du métier d'animateur 3D](images/évolution3d.JPG "En quoi consiste le métier d'animateur 3D")
