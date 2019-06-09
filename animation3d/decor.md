@@ -68,3 +68,9 @@ Une ou deux lignes qui expliquent ce qu’on retrouve dans cette classe. Ensuite
 ![Décors et costumes - captures](images/dee2etoile.JPG "Un autre accessoire et sa maquette")
 
 <br/>
+
+##### WORDPRESS. « Le matte painting » [en ligne]. In _Les effets spéciaux numériques_. [Consulté le 5 mai 2019]. Disponible sur le Web: [https://effetsspeciaux.wordpress.com/2012/05/13/le-matte-painting/](https://effetsspeciaux.wordpress.com/2012/05/13/le-matte-painting/)
+
+![Le matte painting](images/mattepainting.JPG "Les effets spéciaux numériques")
+
+<br/>
