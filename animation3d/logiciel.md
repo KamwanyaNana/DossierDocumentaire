@@ -48,3 +48,9 @@ Explicationet précision du sujet.
 ![Maya tutorials from professionals](images/logicielcgi.JPG "Maya tutorials from professionals - playlist")
 
 <br/>
+
+##### GRINSPUN, Eitan. « Movie magic : the mathematics behind Hollywood's visual effects » [en ligne]. In YouTube. _Mathematical Association of America_. Publié le 15 mars 2017 [consulté le 30 mai 2019]. 7 minutes 28 secondes. Disponible sur le Web : [https://www.youtube.com/watch?v=LQ0aKAhjV40](https://www.youtube.com/watch?v=LQ0aKAhjV40)
+
+![Movie magic : the mathematics behind Hollywood's visual effects](images/effetsformules.JPG "Movie magic : the mathematics behind Hollywood's visual effects")
+
+<br/>
