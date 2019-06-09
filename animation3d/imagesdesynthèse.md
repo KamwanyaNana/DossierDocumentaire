@@ -4,45 +4,51 @@
 
 <br/>
 
-[Introduction à l'animation](index.md)
+[Accueil](index.md)
 
-1. [L'animation en volume ou 3D réel](envolume.md)
+1. [Une introduction à l'animation]
 
-    - [Le stop-motion](stopmotion.md)
-    - [La pixilation](pixilation.md)
+    - [Le développement de la 2D](2d.md)
+    - [Le passage à la 3D](3d.md)
+    - [L'animation en volume ou 3D réelle](envolume.md)
     
+        * [Le stop-motion](stopmotion.md)
+        * [La pixilation et la rotoscopie](pixilation.md)
+
 2. [L'animation par ordinateur](parordinateur.md)
 
-    - [L'animation et effets spéciaux numériques](numerique.md)
+    - [Une science technologique](science.md)
     
-        * [La 2D](2d.md)
-        * [La 3D](3d.md)
+        * [Les formations](formation.md)
+    
+    - **Les images de synthèse**
+    
+        * [Les principes du numérique](numerique.md)
+        * [Les effets spéciaux](effet.md)
+        * [L'illusion des décors et accessoires](decor.md)
         
-    - **Les images de synthèse**    
-        * [L'organic motion](organicmotion.md)
-        * [Le ray tracing ou photoréalisme](photorealisme.md)
-        * [Le motion capture](motioncapture.md)
+    - [La motion capture]()
+    
+        * [L'étude du mouvement]()
+        * [La mise en mouvement]()
+        * [La modélisation des corps](corps.md)
 
+    - [Les évolutions en cours et futures](evolution.md)
+    
+        * [Le ray tracing ou photoréalisme]()
+        
 <br/>
 
-------------------------------------------------------
+--------------------------------------------------------
 
 <br/>
 
 # L'animation par ordinateur
-
-## Les images de synthèse
-
-<br/>
-
-Explication du principe de base.
+# Les images de synthèse
 
 <br/>
 
-##### GOUDET, Jean-Luc. « Images de synthèse : des progrès... dans le brouillard » [en ligne]. In _Futura Tech_. Publié le 21 avril 2008 [consulté le 19 mai 2019]. Disponible sur le Web : [https://www.futura-sciences.com/tech/actualites/informatique-images-synthese-progres-brouillard-15298/](https://www.futura-sciences.com/tech/actualites/informatique-images-synthese-progres-brouillard-15298/)
-
-![Images de synthèse : des progrès... dans le brouillard](images/diffusionlumiere.JPG "L'algorithme lumière")
-![Images de synthèse : des progrès... dans le brouillard](images/lumiere.JPG "L'algorithme lumière")
+Une ou deux lignes qui expliquent ce qu’on retrouve dans cette classe. Ensuite, publication des différentes ressources trouvées.
 
 <br/>
 
@@ -56,4 +62,4 @@ Explication du principe de base.
 
 ![L'image de synthèse](images/imagesynthese.JPG "Image numérique et image de synthèse")
 
-<br>
+<br/>
