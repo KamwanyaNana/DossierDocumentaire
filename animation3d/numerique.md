@@ -43,7 +43,9 @@
 
 <br/>
 
-# Une introduction à l'animation
+# L'ANIMATION PAR ORDINATEUR
+# Les images de synthèse
+## Les principes du numériques
 
 <br/>
 
