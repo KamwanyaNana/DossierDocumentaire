@@ -53,6 +53,12 @@ Une ou deux lignes qui expliquent ce qu’on retrouve dans cette classe. Ensuite
 
 <br/>
 
+##### CUESTA, Esteban. « Maya tutorials from professionals » [en ligne]. In YouTube. _CGMeetup_. Publié en 2018  [consulté le 9 juin 2019]. Playlist : 21 vidéos. Disponible sur le Web : [https://www.youtube.com/watch?v=Dwml8T-b4Jg&list=PLc6NCp8iAPDYJ8yJkv4n4qSuIbCwLLh7Y&index=1](https://www.youtube.com/watch?v=Dwml8T-b4Jg&list=PLc6NCp8iAPDYJ8yJkv4n4qSuIbCwLLh7Y&index=1)
+
+![Maya tutorials from professionals](images/logicielcgi.JPG "Maya tutorials from professionals - playlist")
+
+<br/>
+
 ##### SAHASRABUDHE, Sameer Suhas. _Design considerations for creating eLearning animations_ [en ligne]. IIT Bombay, 2013 [consulté le 30 mai 2019]. 271 p. Disponible sur le Web : <https://ssameers.files.wordpress.com/2018/07/sameerss_thesis04092015.pdf>. PRN: SR200149
 
 !["Design considerations for creating eLearning animations" by Sameer Suhas Sahasrabudhe](images/elearninganimationI.JPG "Design considerations for creating eLearning animations - Table of contents")
