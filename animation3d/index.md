@@ -31,7 +31,7 @@ Espace pour mon introduction sur le sujet (aller la chercher sur LaTeX).
     
     - [Les images de synthèse]()
     
-        * [Les principes du numérique]()
+        * [Les principes du numérique](numerique.md)
         * [Les effets spéciaux]()
         * [L'illusion des décors et accessoires](decor.md)
     
