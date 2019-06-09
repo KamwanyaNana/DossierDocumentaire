@@ -18,9 +18,9 @@ Espace pour mon introduction sur le sujet (aller la chercher sur LaTeX).
 
     - [Le développement de la 2D]()
     - [Le passage à la 3D]()
-    - [L'animation en volume ou 3D réelle]()
+    - [L'animation en volume ou 3D réelle](envolume.md)
     
-        * [Le stpop-motion]()
+        * [Le stpop-motion](stopmotion.md)
         * [La pixilation et la rotoscopie]()
 
 2. [L'animation par ordinateur]()
@@ -33,7 +33,7 @@ Espace pour mon introduction sur le sujet (aller la chercher sur LaTeX).
     
         * [Les principes du numérique]()
         * [Les effets spéciaux]()
-        * [La conception des décors et accessoires]()
+        * [La conception des décors et accessoires](decor.md)
     
     - [La motion capture]()
     
