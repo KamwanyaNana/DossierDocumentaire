@@ -37,7 +37,7 @@ Espace pour mon introduction sur le sujet (aller la chercher sur LaTeX).
     
     - [La motion capture]()
     
-        * [L'étude du mouvement]()
+        * [L'étude du mouvement](etude.md)
         * [La mise en mouvement]()
         * [La modélisation des corps](corps.md)
 
