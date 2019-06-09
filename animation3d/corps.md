@@ -58,3 +58,9 @@ Une ou deux lignes qui expliquent ce qu’on retrouve dans cette classe. Ensuite
 ![DreamWorks technology - vidéo](images/dreamworks.JPG "DreamWorks technology")
 
 <br/>
+
+##### LEBRUN, Caroline. « La 3D dans la peau ! » [en ligne]. 01net. Publié le 8 juin 2006 [consulté le 7 juin 2019]. Disponible sur le Web : <https://www.01net.com/astuces/la-3d-dans-la-peau-321014.html>
+
+![La 3D dans la peau !](images/peau3d.JPG "La 3D dans la peau !")
+
+<br/>
