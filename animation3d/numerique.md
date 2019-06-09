@@ -45,7 +45,7 @@
 
 # L'ANIMATION PAR ORDINATEUR
 # Les images de synthèse
-## Les principes du numériques
+## Les principes du numérique
 
 <br/>
 
