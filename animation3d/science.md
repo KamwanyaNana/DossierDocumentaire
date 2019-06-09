@@ -43,7 +43,8 @@
 
 <br/>
 
-# Une introduction à l'animation
+# L'animation par ordinateur
+# Une science technologique
 
 <br/>
 
