@@ -29,7 +29,7 @@ Espace pour mon introduction sur le sujet (aller la chercher sur LaTeX).
     
         * [Les formations](formation.md)
     
-    - [Les images de synthèse]()
+    - [Les images de synthèse](imagesdesynthèse.md)
     
         * [Les principes du numérique](numerique.md)
         * [Les effets spéciaux](effet.md)
