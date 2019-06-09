@@ -53,6 +53,8 @@ Une ou deux lignes qui expliquent ce qu’on retrouve dans cette classe. Ensuite
 
 <br/>
 
+##### ORGANIC MOTION. « Accueil : Organic motion » [en ligne]. In YouTube. [Consulté le 7 juin 2019]. Disponible sur le Web: [https://www.youtube.com/channel/UCbUxf7QvfZuEKajDc6UFAqw](https://www.youtube.com/channel/UCbUxf7QvfZuEKajDc6UFAqw)
 
+![Accueil : Organic motion](images/organicmotionyt.JPG "Accueil YouTube : Organic motion")
 
 <br/>
