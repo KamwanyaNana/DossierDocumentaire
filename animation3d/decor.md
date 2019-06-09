@@ -23,7 +23,7 @@
     
     - [Les images de synthèse]()
     
-        * [Les principes du numérique]()
+        * [Les principes du numérique](numerique.md)
         * [Les effets spéciaux]()
         * **L'illusion des décors et accessoires**
         
