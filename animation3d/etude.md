@@ -70,6 +70,12 @@ Une ou deux lignes qui expliquent ce qu’on retrouve dans cette classe. Ensuite
 
 <br/>
 
+##### NETFLIX. « Mowgli: Legend of the Jungle | Featurette: Capturing the Magic of Mowgli » [en ligne]. In YouTube. Publié le 9 décembre 2018  [consulté le 20 mai 2019]. 2 minutes 27 secondes. Disponible sur le Web : [https://www.youtube.com/watch?v=v7uH_ThCCOA](https://www.youtube.com/watch?v=v7uH_ThCCOA)
+
+![Capturing the Magic of Mowgli](images/capturemowgli.JPG "Capturing the Magic of Mowgli")
+
+<br/>
+
 ##### ORGANIC MOTION. « Organic motion announces the launch of STAGE » [en ligne]. In YouTube. Réalisé en août 20007, publié le 25 juillet 2008 [consulté le 8 juin 2019]. 2 minutes 12 secondes. Disponible sur le Web : [https://www.youtube.com/watch?v=px5_UagJ4_8&feature=youtu.be](https://www.youtube.com/watch?v=px5_UagJ4_8&feature=youtu.be)
 
 ![Organic motion announces the launch of STAGE](images/organicmotion.JPG "Organic motion announces the launch of STAGE")
