@@ -69,3 +69,9 @@ Une ou deux lignes qui expliquent ce qu’on retrouve dans cette classe. Ensuite
 ![L’animation de ‘’Spirit’’ - capture](images/spiritexpression.JPG "Le travail d'expression")
 
 <br/>
+
+##### ORGANIC MOTION. « Organic motion announces the launch of STAGE » [en ligne]. In YouTube. Réalisé en août 20007, publié le 25 juillet 2008 [consulté le 8 juin 2019]. 2 minutes 12 secondes. Disponible sur le Web : [https://www.youtube.com/watch?v=px5_UagJ4_8&feature=youtu.be](https://www.youtube.com/watch?v=px5_UagJ4_8&feature=youtu.be)
+
+![Organic motion announces the launch of STAGE](images/organicmotion.JPG "Organic motion announces the launch of STAGE")
+
+<br/>
