@@ -6,7 +6,7 @@
 
 [Accueil](index.md)
 
-1. **Une introduction à l'animation**
+1. Une introduction à l'animation](histoire.md)
 
     - [Le développement de la 2D](2d.md)
     - [Le passage à la 3D](3d.md)
@@ -53,6 +53,8 @@ Une ou deux lignes qui expliquent ce qu’on retrouve dans cette classe. Ensuite
 
 <br/>
 
+##### DREAMWORKS ANIMATION. « Technology » [en ligne]. Mis à jour en 2019 [consulté le 20 mai 2019]. Disponible sur le Web: [http://www.dreamworksanimation.com/technology/](http://www.dreamworksanimation.com/technology/)
 
+![DreamWorks technology - vidéo](images/dreamworks.JPG "DreamWorks technology")
 
 <br/>
