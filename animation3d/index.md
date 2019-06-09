@@ -14,7 +14,7 @@ Espace pour mon introduction sur le sujet (aller la chercher sur LaTeX).
 
 <br/>
 
-1. [Une introduction à l'animation]()
+1. [Une introduction à l'animation](histoire.md)
 
     - [Le développement de la 2D]()
     - [Le passage à la 3D]()
@@ -46,6 +46,8 @@ Espace pour mon introduction sur le sujet (aller la chercher sur LaTeX).
         * [Le ray tracing ou photoréalisme]()
 
 <br/>
+
+-------------------------------------------------------
 
 1. [L'animation en volume ou 3D réel](envolume.md)
 
