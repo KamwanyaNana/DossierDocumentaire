@@ -4,39 +4,50 @@
 
 <br/>
 
-[Introduction à l'animation](index.md)
+[Accueil](index.md)
 
-1. [L'animation en volume ou 3D réel](envolume.md)
+1. **Une introduction à l'animation**
 
-    - [Le stop-motion](stopmotion.md)
-    - **La pixilation**
+    - [Le développement de la 2D]()
+    - [Le passage à la 3D]()
+    - [L'animation en volume ou 3D réelle](envolume.md)
     
-2. [L'animation par ordinateur](parordinateur.md)
+        * [Le stop-motion](stopmotion.md)
+        * [La pixilation et la rotoscopie]()
 
-    - [L'animation et effets spéciaux numériques](numerique.md)
+2. [L'animation par ordinateur]()
+
+    - [Une science technologique]()
     
-        * [La 2D](2d.md)
-        * [La 3D](3d.md)
+        * [Les formations]()
+    
+    - [L'image de synthèse]()
+    
+        * [Les principes du numérique]()
+        * [Les effets spéciaux]()
+        * [La conception des décors et accessoires](decor.md)
         
-    - [Les images de synthèse](imagesdesynthèse.md)
+    - [La motion capture]()
     
-        * [L'organic motion](organicmotion.md)
-        * [Le ray tracing ou photoréalisme](phtorealisme.md)
-        * [Le motion capture](motioncapture.md)
+        * [L'étude du mouvement]()
+        * [La mise en mouvement]()
+        * [La modélisation des corps]()
+
+    - [Les évolutions en cours et futures]()
+    
+        * [Le ray tracing ou photoréalisme]()
+        
+<br/>
+
+--------------------------------------------------------
 
 <br/>
 
---------------------------------------------------------------------
+# Une introduction à l'animation
 
 <br/>
 
-# L'animation en volume ou 3D réel
-
-## La pixilation
-
-<br/>
-
-Explication brève de la technique.
+Une ou deux lignes qui expliquent ce qu’on retrouve dans cette classe. Ensuite, publication des différentes ressources trouvées.
 
 <br/>
 
