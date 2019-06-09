@@ -44,7 +44,7 @@
 <br/>
 
 # L'animation par ordinateur
-# Une science technologique
+## Une science technologique
 
 <br/>
 
