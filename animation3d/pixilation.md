@@ -40,7 +40,7 @@ Explication brève de la technique.
 
 <br/>
 
-##### Bonus : Décors et costumes. In _Di Renjie : Shen du long wang_. Film d’action, aventure et arts martiaux. Réalisé par Tsui Hark, Huayi Corporation. Diffusé le 6 août 2014. 2h 14min
+##### Décors et costumes. In _Di Renjie : Shen du long wang_. Film d’action, aventure et arts martiaux. Réalisé par Tsui Hark, Huayi Corporation. Diffusé le 6 août 2014. 2h 14min
 
 ![Décors et costumes - capture](images/dee2bateau.JPG "Le bateau")
 > _« L’île des Chauves-souris est un assemblage de six décors. On a reconstruit tout un navire en studio, avec la proue, les mâts, et le pont tout entier. Chaque navire doit pouvoir bouger. On y a consacré un après-midi. On veut faire rêver le public pendant toute la durée du film. »_
@@ -66,6 +66,12 @@ Explication brève de la technique.
 
 ![Séance 7 : pixilation et animation d’objets](images/pixilation.JPG "Pixilation et animation d’objets")
 ![Séance 7 : pixilation et animation d’objets](images/pixilationprincipe.JPG "Pixilation et animation d’objets")
+
+<br/>
+
+##### MCLAREN, Norman. « Norman McLaren - Neighbours » [en ligne]. In YouTube. The National Film Board of Canada (NFO). Réalisé en 1952, publié le 5 novembre 2011  [consulté le 8 juin 2019]. 8 minutes 6 secondes. Disponible sur le Web : [https://www.youtube.com/watch?v=4YAYGi8rQag](https://www.youtube.com/watch?v=4YAYGi8rQag)
+
+![Norman McLaren - Neighbours](images/pixilationex.JPG "Norman McLaren - Neighbours")
 
 <br/>
 
