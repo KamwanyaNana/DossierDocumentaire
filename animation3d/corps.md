@@ -30,7 +30,7 @@
     - [La motion capture]()
     
         * [L'étude du mouvement](etude.md)
-        * [La mise en mouvement]()
+        * [La mise en mouvement](mouvement.md)
         * **La modélisation des corps**
 
     - [Les évolutions en cours et futures](evolution.md)
