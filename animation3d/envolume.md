@@ -15,7 +15,7 @@
         * [Le stop-motion](stopmotion.md)
         * [La pixilation et la rotoscopie](pixilation.md)
 
-2. [L'animation par ordinateur]()
+2. [L'animation par ordinateur](parordinateur.md)
 
     - [Une science technologique]()
     
