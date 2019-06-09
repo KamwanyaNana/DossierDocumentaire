@@ -70,6 +70,12 @@ Explication blablabla...
 
 <br/>
 
+##### ORGANIC MOTION. « Accueil : Organic motion » [en ligne]. In YouTube. [Consulté le 7 juin 2019]. Disponible sur le Web: [https://www.youtube.com/channel/UCbUxf7QvfZuEKajDc6UFAqw](https://www.youtube.com/channel/UCbUxf7QvfZuEKajDc6UFAqw)
+
+![Accueil : Organic motion](images/organicmotionyt.JPG "Accueil YouTube : Organic motion")
+
+<br/>
+
 ##### OSTER, Isaac. « Isaac Oster, character & technical artist » [en ligne]. In YouTube. _CGMeetup_. Publié en 2015  [consulté le 28 mai 2019]. Playlist : 17 vidéos. Disponible sur le Web : [https://www.youtube.com/watch?v=kw0VGRRTX60&list=PLc6NCp8iAPDZoJZf-xZjqZgsk0P1oRsPb](https://www.youtube.com/watch?v=kw0VGRRTX60&list=PLc6NCp8iAPDZoJZf-xZjqZgsk0P1oRsPb)
 
 ![Character & technical artist](images/modelisationtutorial.JPG "Character & technical artist")
