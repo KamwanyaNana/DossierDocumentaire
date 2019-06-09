@@ -21,7 +21,7 @@
     
         * **Les formations**
     
-    - [Les images de synthèse]()
+    - [Les images de synthèse](imagesdesynthèse.md)
     
         * [Les principes du numérique](numerique.md)
         * [Les effets spéciaux](effet.md)
