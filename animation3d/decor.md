@@ -69,6 +69,12 @@ Une ou deux lignes qui expliquent ce qu’on retrouve dans cette classe. Ensuite
 
 <br/>
 
+##### MARTIN, Philippe et MARTIN, Dominique. « Images numérique et image de synthèse : La création des scènes » [en ligne]. In _Encyclopædia Universalis_. [Consulté le 19 mai 2019]. Disponible sur le Web: [https://www.universalis.fr/encyclopedie/image-numerique-et-image-de-synthese/3-la-creation-des-scenes/](https://www.universalis.fr/encyclopedie/image-numerique-et-image-de-synthese/3-la-creation-des-scenes/)
+
+![La création des scènes](images/modelisationscene.JPG "Images numérique et image de synthèse")
+
+<br/>
+
 ##### WORDPRESS. « Le matte painting » [en ligne]. In _Les effets spéciaux numériques_. [Consulté le 5 mai 2019]. Disponible sur le Web: [https://effetsspeciaux.wordpress.com/2012/05/13/le-matte-painting/](https://effetsspeciaux.wordpress.com/2012/05/13/le-matte-painting/)
 
 ![Le matte painting](images/mattepainting.JPG "Les effets spéciaux numériques")
