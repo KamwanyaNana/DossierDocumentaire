@@ -13,7 +13,7 @@
     - [L'animation en volume ou 3D réelle](envolume.md)
     
         * **Le stop-motion**
-        * [La pixilation et la rotoscopie]()
+        * [La pixilation et la rotoscopie](pixilation.md)
 
 2. [L'animation par ordinateur]()
 
