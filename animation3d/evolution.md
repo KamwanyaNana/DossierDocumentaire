@@ -51,3 +51,9 @@
 Une ou deux lignes qui expliquent ce qu’on retrouve dans cette classe. Ensuite, publication des différentes ressources trouvées.
 
 <br/>
+
+##### MJM VIDÉO/ANIMATION. « En quoi consiste le métier d'animateur 3D » [en ligne]. [Consulté le 30 mai 2019]. Disponible sur le Web: <https://www.mjm-video-animation.com/comment-realiser-une-bonne-animation-video/>
+
+![Les évolutions du métier d'animateur 3D](images/évolution3d.JPG "En quoi consiste le métier d'animateur 3D")
+
+<br/>
