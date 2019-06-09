@@ -35,7 +35,7 @@
 
 # Les images de synthèse
 
-## Le motion capture
+## Les logiciels
 
 <br/>
 
