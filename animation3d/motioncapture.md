@@ -48,6 +48,12 @@ Explicationet précision du sujet.
 
 <br/>
 
+##### CAMERON, James. « Avatar : motion capture mirrors emotions » [en ligne]. In YouTube. _Discovery_. Publié le 24 décembre 2009 [consulté le 20 mai 2019]. 2 minutes 41 secondes. Disponible sur le Web : [https://www.youtube.com/watch?v=1wK1Ixr-UmM](https://www.youtube.com/watch?v=1wK1Ixr-UmM)
+
+![Avatar : motion capture mirrors emotions](images/motioncaptureavatar.JPG "Avatar : motion capture mirrors emotions")
+
+<br/>
+
 ##### CICLIC CENTRE-VAL DE LOIRE. « Séance 9 : animation par ordinateur » [en ligne]. In _Upopi : Université populaire des images. 2014 [consulté le 19 mai 2019]_. Disponible sur le Web : [http://upopi.ciclic.fr/transmettre/parcours-pedagogiques/initiation-au-cinema-d-animation/seance-9-animation-par-ordinateur](http://upopi.ciclic.fr/transmettre/parcours-pedagogiques/initiation-au-cinema-d-animation/seance-9-animation-par-ordinateur)
 
 ![Séance 9 : animation par ordinateur](images/motioncapture.JPG "Animation par ordinateur")
