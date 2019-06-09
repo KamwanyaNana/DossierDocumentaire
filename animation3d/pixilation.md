@@ -68,3 +68,9 @@ Explication brève de la technique.
 ![Séance 7 : pixilation et animation d’objets](images/pixilationprincipe.JPG "Pixilation et animation d’objets")
 
 <br/>
+
+##### TILBY, Wendy et FORBIS, Amanda. « 24 idées / seconde - pixillation et rotoscopie » [en ligne]. In Canada.ca. _National Film Board of Canada (NFB)_. Publié en 2006 [consulté le 8 juin 2019]. 24 minutes 3 secondes. Disponible sur le Web : [https://www.onf.ca/film/24_idees_seconde_pixillation_rotoscopie/](https://www.onf.ca/film/24_idees_seconde_pixillation_rotoscopie/)
+
+![24 idées / seconde - pixillation et rotoscopie](images/pixilationrotoscopie.JPG "Pixillation et rotoscopie")
+
+<br/>
