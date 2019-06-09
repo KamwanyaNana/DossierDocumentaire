@@ -17,21 +17,21 @@
 
 2. [L'animation par ordinateur](parordinateur.md)
 
-    - [Une science technologique]()
+    - [Une science technologique](science.md)
     
         * [Les formations](formation.md)
     
-    - [Les images de synthèse]()
+    - [Les images de synthèse](imagesdesynthèse.md)
     
         * [Les principes du numérique](numerique.md)
-        * [Les effets spéciaux]()
+        * [Les effets spéciaux](effet.md)
         * [L'illusion des décors et accessoires](decor.md)
         
     - [La motion capture]()
     
         * [L'étude du mouvement]()
         * [La mise en mouvement]()
-        * [La modélisation des corps]()
+        * [La modélisation des corps](corps.md)
 
     - [Les évolutions en cours et futures](evolution.md)
     
