@@ -13,7 +13,7 @@
     - [L'animation en volume ou 3D réelle](envolume.md)
     
         * [Le stop-motion](stopmotion.md)
-        * [La pixilation et la rotoscopie]()
+        * [La pixilation et la rotoscopie](pixilation.md)
 
 2. [L'animation par ordinateur]()
 
@@ -21,11 +21,11 @@
     
         * [Les formations]()
     
-    - [L'image de synthèse]()
+    - [Les images de synthèse]()
     
         * [Les principes du numérique]()
         * [Les effets spéciaux]()
-        * [La conception des décors et accessoires](decor.md)
+        * [L'illusion des décors et accessoires](decor.md)
         
     - [La motion capture]()
     
