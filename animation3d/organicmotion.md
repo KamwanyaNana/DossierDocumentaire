@@ -58,6 +58,12 @@ Explication blablabla...
 
 <br/>
 
+##### FREUDENSTEIN, Ferdiand ; AGRAWAL,  Sunil et GRINSPUN, Eitan. « 150th Anniversary Symposium : Columbia's Engineering Renaissance. Motion. 08 » [en ligne]. In YouTube. _Columbia Engineering_. Publié le 1 décembre 2014  [consulté le 30 mai 2019]. 5 minutes 23 secondes. Disponible sur le Web : [https://www.youtube.com/watch?v=sYCR4HQv5xo](https://www.youtube.com/watch?v=sYCR4HQv5xo)
+
+![150th Anniversary Symposium](images/motioncolombia.JPG "150th Anniversary Symposium : Columbia's Engineering Renaissance")
+
+<br/>
+
 ##### ORGANIC MOTION. « Organic motion announces the launch of STAGE » [en ligne]. In YouTube. Réalisé en août 20007, publié le 25 juillet 2008 [consulté le 8 juin 2019]. 2 minutes 12 secondes. Disponible sur le Web : [https://www.youtube.com/watch?v=px5_UagJ4_8&feature=youtu.be](https://www.youtube.com/watch?v=px5_UagJ4_8&feature=youtu.be)
 
 ![Organic motion announces the launch of STAGE](images/organicmotion.JPG "Organic motion announces the launch of STAGE")
