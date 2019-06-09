@@ -10,9 +10,9 @@
 
     - [Le développement de la 2D]()
     - [Le passage à la 3D]()
-    - [L'animation en volume ou 3D réelle]()
+    - [L'animation en volume ou 3D réelle](envolume.md)
     
-        * [Le stpop-motion]()
+        * [Le stop-motion](stopmotion.md)
         * [La pixilation et la rotoscopie]()
 
 2. [L'animation par ordinateur]()
