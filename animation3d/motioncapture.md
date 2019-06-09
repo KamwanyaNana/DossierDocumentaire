@@ -67,6 +67,12 @@ Explicationet précision du sujet.
 
 <br/>
 
+##### NETFLIX. « Mowgli: Legend of the Jungle | Featurette: Capturing the Magic of Mowgli » [en ligne]. In YouTube. Publié le 9 décembre 2018  [consulté le 20 mai 2019]. 2 minutes 27 secondes. Disponible sur le Web : [https://www.youtube.com/watch?v=v7uH_ThCCOA](https://www.youtube.com/watch?v=v7uH_ThCCOA)
+
+![Capturing the Magic of Mowgli](images/capturemowgli.JPG "Capturing the Magic of Mowgli")
+
+<br/>
+
 ##### SERVICK, Kelly. « ScienceShot: Making virtual humans dance » [en ligne]. _Sciencemag_. Publié le 14 février 2014 [consulté le 20 mai 2019], posté dans Technology, AAAS 2014. Disponible sur le Web : <https://www.sciencemag.org/news/2014/02/scienceshot-making-virtual-humans-dance>
 
 ![Making virtual humans dance](images/motioncapturedance.JPG "Making virtual humans dance")
