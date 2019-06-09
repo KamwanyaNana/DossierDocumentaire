@@ -67,3 +67,20 @@ Une ou deux lignes qui expliquent ce qu’on retrouve dans cette classe. Ensuite
 ![Houdini tutorial](images/effetstuto.JPG "Houdini tutorial - playlist")
 
 <br/>
+
+##### L’équipe technique. In _Di Renjie : Shen du long wang_. Film d’action, aventure et arts martiaux. Réalisé par Tsui Hark, Huayi Corporation. Diffusé le 6 août 2014. 2h 14min
+
+> _« Pour le premier volet, on a investi 900 millions. Celui-ci atteint le milliard. Beaucoup de choses ont changé. On a beaucoup investi dans les effets de lumière et de son. (…) Malgré tous les préparatifs, la pression est quand même forte. Pour les scènes au temple du Dragon des mers, il faut du gros matériel. Nos caméras étaient trop encombrantes. Nous en avons acheté des plus petites. (…) On arrive à faire aujourd’hui des choses qu’on n’imaginait pas avant. Nous avons mis à contribution notre savoir-faire et notre expérience pour créer une œuvre nouvelle. »_
+
+![L’équipe technique - capture d'écran](images/dee2effeteau.JPG "Apparition de la créature")
+
+> _« Tsui Hark voit toujours très grand, des scènes grandioses, mais il accorde de la place à la nouveauté et au sens du détail. Quand il conçoit le film, il se met à la place d’un spectateur qui veut en avoir pour son argent. Je voulais de l’eau en 3D. On tourne sous l’eau, c’est une grande première ici. Ça s’explique par son goût du risque. Plus c’est difficile, plus il veut essayer. Un tournage classique dans l’eau, c’est déjà difficile. Alors en 3D… »_
+
+![L’équipe technique - capture d'écran](images/dee2effeteauI.JPG "Combat dans l'eau - réalisation")
+![L’équipe technique - capture d'écran](images/dee2effeteauII.JPG "Combat dans l'eau - rendu")
+
+> _« Je voulais voir un cavalier qui galope dans l’eau. C’est une image que j’avais depuis longtemps en tête, mais ça suppose un environnement maîtrisé. On a utilisé des bassins remplis d’eau. Le bassin fait 30 m par 60 m et 3 m de profondeur. On a mis 3 mois pour le construire. Tout ça pour quelques scènes. Nous avons fabriqué nos propres bouées. Nos propres coffrages. On a utilisé des machines à faire des vagues. Quand elles déferlent, c’est très réussi. Pour bien contrôler ce bassin, il faut du temps. Ça suppose un timing très précis. Quand on filme un corps qui bondit hors de l’eau, il faut avoir une bonne maîtrise de l’élément naturel. (…) On est allés à Yiwu pour louer une piscine plus profonde car il fallait 9 m de fond pour la scène avec le cheval. On a engagé une dizaine de plongeurs. Un Australien expert en images sous-marines. Avec la seule caméra permettant de telles prises de vues. Avec les autres appareils, il y avait 260 kilos de matériel. Le plus dur, c’est de tout coordonner dans un tel emplacement. »_
+
+![L’équipe technique - capture d'écran](images/dee2effeteauIII.JPG "Le bassin")
+
+<br/>
