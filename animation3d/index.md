@@ -17,7 +17,7 @@ Espace pour mon introduction sur le sujet (aller la chercher sur LaTeX).
 1. [Une introduction à l'animation](histoire.md)
 
     - [Le développement de la 2D]()
-    - [Le passage à la 3D]()
+    - [Le passage à la 3D](3d.md)
     - [L'animation en volume ou 3D réelle](envolume.md)
     
         * [Le stop-motion](stopmotion.md)
