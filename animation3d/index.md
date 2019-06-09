@@ -27,7 +27,7 @@ Espace pour mon introduction sur le sujet (aller la chercher sur LaTeX).
 
     - [Une science technologique]()
     
-        * [Les formations]()
+        * [Les formations](formation.md)
     
     - [Les images de synthèse]()
     
