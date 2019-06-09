@@ -52,6 +52,13 @@ Une ou deux lignes qui expliquent ce qu’on retrouve dans cette classe. Ensuite
 
 <br/>
 
+##### DEVILLARD, Arnaud. « Pour réaliser "Croc Blanc", motion capture d'un chien et caméra virtuelle » [en ligne]. In _Sciences et Avenir_. Publié le 12 mars 2018 [consulté le 19 mai 2019]. Disponible sur le Web : [https://www.sciencesetavenir.fr/high-tech/pour-realiser-croc-blanc-motion-capture-d-un-chien-et-camera-virtuelle_121874](https://www.sciencesetavenir.fr/high-tech/pour-realiser-croc-blanc-motion-capture-d-un-chien-et-camera-virtuelle_121874)
+
+![Pour réaliser "Croc Blanc", motion capture d'un chien et caméra virtuelle](images/mocaptext.JPG "Motion capture d'un chien")
+![Pour réaliser "Croc Blanc", motion capture d'un chien et caméra virtuelle](images/mocapchien.JPG "Motion capture d'un chien")
+
+<br/>
+
 ##### ET MANTRA. « What will be the future of Education Technology ? - Dr. Sameer Sahasrabudhe » [en ligne]. In YouTube. Publié le 26 octobre 2018 [consulté le 30 mai 2019]. 1 minute 41 secondes. Disponible sur le Web : [https://www.youtube.com/watch?v=ZxspBGYZ_aQ](https://www.youtube.com/watch?v=ZxspBGYZ_aQ)
 
 ![What will be the future of Education Technology ?](images/techeducationevolution.JPG "What will be the future of Education Technology ?")
