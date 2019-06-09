@@ -4,6 +4,60 @@
 
 <br/>
 
+[Accueil](index.md)
+
+1. [Une introduction à l'animation](histoire.md)
+
+    - [Le développement de la 2D]()
+    - [Le passage à la 3D]()
+    - [L'animation en volume ou 3D réelle](envolume.md)
+    
+        * **Le stop-motion**
+        * [La pixilation et la rotoscopie]()
+
+2. [L'animation par ordinateur]()
+
+    - [Une science technologique]()
+    
+        * [Les formations]()
+    
+    - [L'image de synthèse]()
+    
+        * [Les principes du numérique]()
+        * [Les effets spéciaux]()
+        * [La conception des décors et accessoires]()
+        
+<br/>
+
+--------------------------------------------------------
+
+<br/>
+
+# UNE INTRODUCTION À L'ANIMATION
+# L'animation en volume ou 3D réelle
+## Le stop-motion
+
+<br/>
+
+Une ou deux lignes qui expliquent ce qu’on retrouve dans cette classe. Ensuite, publication des différentes ressources trouvées.
+
+<br/>
+
+##### RAFFIN, Antonin. Le Monde Du Stop Motion [en ligne]. Publié le 5 avril 2012 [consulté le 19 mai 2019]. Disponible sur le Web : [https://www.lemondedustopmotion.fr/](https://www.lemondedustopmotion.fr/news/voir/1/Bienvenue_sur_le_monde_du_stop_motion)
+
+![Le Monde du stop-motion](images/mondestopmotion.JPG "Le monde du stop-motion")
+![The story about stop-motion : vidéo](images/mondestopmotionvideo.JPG "The story about stop-motion")
+
+<br/>
+
+--------------------------------------------------
+
+<br/>
+
+### Vous êtes ici
+
+<br/>
+
 [Introduction à l'animation](index.md)
 
 1. [L'animation en volume ou 3D réel](envolume.md)
