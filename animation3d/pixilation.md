@@ -6,14 +6,14 @@
 
 [Accueil](index.md)
 
-1. **Une introduction à l'animation**
+1. [Une introduction à l'animation](histoire.md)
 
     - [Le développement de la 2D]()
     - [Le passage à la 3D]()
     - [L'animation en volume ou 3D réelle](envolume.md)
     
         * [Le stop-motion](stopmotion.md)
-        * [La pixilation et la rotoscopie]()
+        * **La pixilation et la rotoscopie**
 
 2. [L'animation par ordinateur]()
 
@@ -21,11 +21,11 @@
     
         * [Les formations]()
     
-    - [L'image de synthèse]()
+    - [Les images de synthèse]()
     
         * [Les principes du numérique]()
         * [Les effets spéciaux]()
-        * [La conception des décors et accessoires](decor.md)
+        * [L'illusion des décors et accessoires](decor.md)
         
     - [La motion capture]()
     
@@ -43,13 +43,13 @@
 
 <br/>
 
-# Une introduction à l'animation
+# UNE INTRODUCTION À L'ANIMATION
+# L'animation en volume ou 3D réelle
+## La pixilation et la rotoscopie
 
 <br/>
 
 Une ou deux lignes qui expliquent ce qu’on retrouve dans cette classe. Ensuite, publication des différentes ressources trouvées.
-
-<br/>
 
 <br/>
 
