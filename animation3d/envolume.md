@@ -12,7 +12,7 @@
     - [Le passage à la 3D]()
     - **L'animation en volume ou 3D réelle**
     
-        * [Le stpop-motion]()
+        * [Le stop-motion](stopmotion.md)
         * [La pixilation et la rotoscopie]()
 
 2. [L'animation par ordinateur]()
