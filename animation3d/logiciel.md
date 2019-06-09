@@ -43,6 +43,8 @@ Explicationet précision du sujet.
 
 <br/>
 
-##### Test.
+##### CUESTA, Esteban. « Maya tutorials from professionals » [en ligne]. In YouTube. _CGMeetup_. Publié en 2018  [consulté le 9 juin 2019]. Playlist : 21 vidéos. Disponible sur le Web : [https://www.youtube.com/watch?v=Dwml8T-b4Jg&list=PLc6NCp8iAPDYJ8yJkv4n4qSuIbCwLLh7Y&index=1](https://www.youtube.com/watch?v=Dwml8T-b4Jg&list=PLc6NCp8iAPDYJ8yJkv4n4qSuIbCwLLh7Y&index=1)
+
+![Maya tutorials from professionals](images/logicielcgi.JPG "Maya tutorials from professionals - playlist")
 
 <br/>
