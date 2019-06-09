@@ -4,25 +4,38 @@
 
 <br/>
 
-[Introduction à l'animation](index.md)
+[Accueil](index.md)
 
-1. **L'animation en volume ou 3D réel**
+1. **Une introduction à l'animation**
 
-    - [Le stop-motion](stopmotion.md)
-    - [La pixilation](pixilation.md)
+    - [Le développement de la 2D]()
+    - [Le passage à la 3D]()
+    - [L'animation en volume ou 3D réelle]()
     
-2. [L'animation par ordinateur](parordinateur.md)
+        * [Le stpop-motion]()
+        * [La pixilation et la rotoscopie]()
 
-    - [L'animation et effets spéciaux numériques](numerique.md)
+2. [L'animation par ordinateur]()
+
+    - [Une science technologique]()
     
-        * [La 2D](2d.md)
-        * [La 3D](3d.md)
+        * [Les formations]()
+    
+    - [L'image de synthèse]()
+    
+        * [Les principes du numérique]()
+        * [Les effets spéciaux]()
+        * [La conception des décors et accessoires]()
         
-    - [Les images de synthèse](imagesdesynthèse.md)
-    
-        * [L'organic motion](organicmotion.md)
-        * [Le ray tracing ou photoréalisme](photorealisme.md)
-        * [Le motion capture](motioncapture.md)
+<br/>
+
+--------------------------------------------------------
+
+<br/>
+
+# Une introduction à l'animation
+
+<br/>
 
 <br/>
 
