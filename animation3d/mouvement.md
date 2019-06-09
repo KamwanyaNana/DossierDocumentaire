@@ -53,6 +53,12 @@ Une ou deux lignes qui expliquent ce qu’on retrouve dans cette classe. Ensuite
 
 <br/>
 
+##### CAMERON, James. « Avatar : motion capture mirrors emotions » [en ligne]. In YouTube. _Discovery_. Publié le 24 décembre 2009 [consulté le 20 mai 2019]. 2 minutes 41 secondes. Disponible sur le Web : [https://www.youtube.com/watch?v=1wK1Ixr-UmM](https://www.youtube.com/watch?v=1wK1Ixr-UmM)
+
+![Avatar : motion capture mirrors emotions](images/motioncaptureavatar.JPG "Avatar : motion capture mirrors emotions")
+
+<br/>
+
 ##### ORGANIC MOTION. « Accueil : Organic motion » [en ligne]. In YouTube. [Consulté le 7 juin 2019]. Disponible sur le Web: [https://www.youtube.com/channel/UCbUxf7QvfZuEKajDc6UFAqw](https://www.youtube.com/channel/UCbUxf7QvfZuEKajDc6UFAqw)
 
 ![Accueil : Organic motion](images/organicmotionyt.JPG "Accueil YouTube : Organic motion")
