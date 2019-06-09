@@ -25,7 +25,17 @@
     
         * [Les principes du numérique]()
         * [Les effets spéciaux]()
-        * [La conception des décors et accessoires]()
+        * [La conception des décors et accessoires](decor.md)
+        
+    - [La motion capture]()
+    
+        * [L'étude du mouvement]()
+        * [La mise en mouvement]()
+        * [La modélisation des corps]()
+
+    - [Les évolutions en cours et futures]()
+    
+        * [Le ray tracing ou photoréalisme]()
         
 <br/>
 
