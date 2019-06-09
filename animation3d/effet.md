@@ -84,3 +84,9 @@ Une ou deux lignes qui expliquent ce qu’on retrouve dans cette classe. Ensuite
 ![L’équipe technique - capture d'écran](images/dee2effeteauIII.JPG "Le bassin")
 
 <br/>
+
+##### WATCHTHEDAILY. « Exclusive : Life of Pi's stunning effects » [en ligne]. In YouTube. Publié le 26 novembre 2012  [consulté le 20 mai 2019]. 2 minutes 14 secondes. Disponible sur le Web : [https://www.youtube.com/watch?v=9BrD_v5Vt70](https://www.youtube.com/watch?v=9BrD_v5Vt70)
+
+![Exclusive : Life of Pi's stunning effects](images/effetsdeau.JPG "Exclusive : Life of Pi's stunning effects")
+
+<br/>
