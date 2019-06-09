@@ -1,48 +1,53 @@
 <br/>
 
-#### Vous êtes ici
+### Vous êtes ici
 
 <br/>
 
-[Introduction à l'animation](index.md)
+[Accueil](index.md)
 
-1. [L'animation en volume ou 3D réel](envolume.md)
+1. **Une introduction à l'animation**
 
-    - [Le stop-motion](stopmotion.md)
-    - [La pixilation](pixilation.md)
+    - [Le développement de la 2D]()
+    - [Le passage à la 3D](3d.md)
+    - [L'animation en volume ou 3D réelle](envolume.md)
     
+        * [Le stop-motion](stopmotion.md)
+        * [La pixilation et la rotoscopie](pixilation.md)
+
 2. [L'animation par ordinateur](parordinateur.md)
 
-    - **L'animation et effets spéciaux numériques**
+    - [Une science technologique]()
     
-        * [La 2D](2d.md)
-        * [La 3D](3d.md)
+        * [Les formations](formation.md)
+    
+    - [Les images de synthèse]()
+    
+        * [Les principes du numérique]()
+        * [Les effets spéciaux]()
+        * [L'illusion des décors et accessoires](decor.md)
         
-    - [Les images de synthèse](imagesdesynthèse.md)
+    - [La motion capture]()
     
-        * [L'organic motion](organicmotion.md)
-        * [Le ray tracing ou photoréalisme](photorealisme.md)
-        * [Le motion capture](motioncapture.md)
+        * [L'étude du mouvement]()
+        * [La mise en mouvement]()
+        * [La modélisation des corps]()
+
+    - [Les évolutions en cours et futures](evolution.md)
+    
+        * [Le ray tracing ou photoréalisme]()
+        
+<br/>
+
+--------------------------------------------------------
 
 <br/>
 
-------------------------------------------------------------------
+# Une introduction à l'animation
 
 <br/>
 
-# L'animation par ordinateur
-
-## L'animation et effets spéciaux numériques
-
-<br/>
-
-Explication au sujet.
-
-<br/>
-
-###### MJM VIDÉO/ANIMATION. « En quoi consiste le métier d'animateur 3D » [en ligne]. [Consulté le 30 mai 2019]. Disponible sur le Web: <https://www.mjm-video-animation.com/comment-realiser-une-bonne-animation-video/>
-
-![Les évolutions du métier d'animateur 3D](images/évolution3d.JPG "En quoi consiste le métier d'animateur 3D")
+Une ou deux lignes qui expliquent ce qu’on retrouve dans cette classe. Ensuite, publication des différentes ressources trouvées.
 
 <br/>
 
