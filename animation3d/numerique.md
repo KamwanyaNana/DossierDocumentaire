@@ -6,7 +6,7 @@
 
 [Accueil](index.md)
 
-1. **Une introduction à l'animation**
+1. [Une introduction à l'animation](histoire.md)
 
     - [Le développement de la 2D]()
     - [Le passage à la 3D](3d.md)
@@ -23,7 +23,7 @@
     
     - [Les images de synthèse]()
     
-        * [Les principes du numérique]()
+        * **Les principes du numérique**
         * [Les effets spéciaux]()
         * [L'illusion des décors et accessoires](decor.md)
         
