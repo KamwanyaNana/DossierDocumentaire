@@ -6,11 +6,11 @@
 
 #### Bienvenue sur mon site.
 
-Je vous propose sur ce site un dossier documentaire consacré à l'**animation 3D**. Il s'agit de l'évulotion du dessin animé traditionnel.
+Je vous propose sur ce site un dossier documentaire consacré à l'**animation 3D**. Il s'agit de l'évolution du dessin animé traditionnel.
 
 Je met à votre disposition un plan de classement, visible ci-dessous. Celui-ci est divisé en deux principales parties ; **_une introduction à l'animation_** qui survole les origines de l'animation actuelle, son évolution et les débuts de la 3D, dite artisanale, ainsi qu'originellement indépendante d'ordinateur, et _**l'animation par ordinateur**_ qui aborde les grandes révolutions numériques que cette technique a pu amener.
 
-Chaque page comprend une ou plusieurs références qui définissent, expliquent et ou illustrent la thématique. Les références sont toutes représentées par une ou plusieurs captures d'écrans du document et elles ont également toutes dans leur référence un lien qui vous permet de vous rendre sur le site, sa page ou la vidéo complète. À l'exception des quelques unes qui sont tirées de DVDs. Dans leurs cas, un maximum de captures et de citations ont été retranscrites afin dans saisir le sens malgré tout.
+Chaque page comprend une ou plusieurs références qui définissent, expliquent et/ou illustrent la thématique. Les références sont toutes représentées par une ou plusieurs captures d'écrans du document et elles ont également toutes dans leur référence un lien qui vous permet de vous rendre sur le site, sa page ou la vidéo complète. À l'exception des quelques unes qui sont tirées de DVDs. Dans leurs cas, un maximum de captures et de citations ont été retranscrites afin dans saisir le sens malgré tout.
 
 Bonne exploration.
 
