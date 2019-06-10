@@ -60,7 +60,7 @@ Une ou deux lignes qui expliquent ce qu’on retrouve dans cette classe. Ensuite
 
 <br/>
 
-##### RAFFIN, Antonin. Le Monde Du Stop Motion [en ligne]. Publié le 5 avril 2012 [consulté le 19 mai 2019]. Disponible sur le Web : [https://www.lemondedustopmotion.fr/](https://www.lemondedustopmotion.fr/news/voir/1/Bienvenue_sur_le_monde_du_stop_motion)
+##### RAFFIN, Antonin. Le Monde Du Stop Motion [en ligne]. In _Le Monde du stop motion_. Publié le 5 avril 2012 [consulté le 19 mai 2019]. Disponible sur le Web : [https://www.lemondedustopmotion.fr/](https://www.lemondedustopmotion.fr/news/voir/1/Bienvenue_sur_le_monde_du_stop_motion)
 
 ![Le Monde du stop-motion](images/mondestopmotion.JPG "Le monde du stop-motion")
 ![The story about stop-motion : vidéo](images/mondestopmotionvideo.JPG "The story about stop-motion")
