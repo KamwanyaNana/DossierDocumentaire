@@ -49,7 +49,7 @@
 
 <br/>
 
-Une ou deux lignes qui expliquent ce qu’on retrouve dans cette classe. Ensuite, publication des différentes ressources trouvées.
+Cette page contient des références illustrant la mise en application de l'étude des mouvements. Elles regroupent un ensemble d'exemples sur la réalisation de scène en motion capture.
 
 <br/>
 
