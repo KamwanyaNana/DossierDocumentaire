@@ -4,7 +4,7 @@
 
 <br/>
 
-#### Bienvenue sur mon site.
+### Bienvenue sur mon site.
 
 Je vous propose sur ce site un dossier documentaire consacré à l'**animation 3D**. Il s'agit de l'évolution du dessin animé traditionnel.
 
@@ -12,7 +12,7 @@ Je met à votre disposition un plan de classement, visible ci-dessous. Celui-ci 
 
 Chaque page comprend une ou plusieurs références qui définissent, expliquent et/ou illustrent la thématique. Les références sont toutes représentées par une ou plusieurs captures d'écrans du document et elles ont également toutes dans leur référence un lien qui vous permet de vous rendre sur le site, sa page ou la vidéo complète. À l'exception des quelques unes qui sont tirées de DVDs. Dans leurs cas, un maximum de captures et de citations ont été retranscrites afin dans saisir le sens malgré tout.
 
-Bonne exploration.
+#### Bonne exploration.
 
 <br/>
 
