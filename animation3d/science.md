@@ -48,7 +48,7 @@
 
 <br/>
 
-Une ou deux lignes qui expliquent ce qu’on retrouve dans cette classe. Ensuite, publication des différentes ressources trouvées.
+Cette page contient des références explicatives sur les algorithmes. Deux d'entre elles, réalisées par des docteurs en science des ordinateurs, sont plus scientifiques et l'autre plus vulgarisant.
 
 <br/>
 
