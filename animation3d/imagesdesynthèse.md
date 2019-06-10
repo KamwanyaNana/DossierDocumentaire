@@ -48,7 +48,7 @@
 
 <br/>
 
-Une ou deux lignes qui expliquent ce qu’on retrouve dans cette classe. Ensuite, publication des différentes ressources trouvées.
+Cette page contient deux références proposant une approche pleinement théorique et consise. Bien que les liens peuvent amenés à des contextualisation plus complètes que les captures que vous pouvez voir.
 
 <br/>
 
