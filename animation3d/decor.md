@@ -49,7 +49,7 @@
 
 <br/>
 
-Une ou deux lignes qui expliquent ce qu’on retrouve dans cette classe. Ensuite, publication des différentes ressources trouvées.
+Cette page contient des références révélant l'assemblage et modélisation de décors et accessoires visibles à l'écran, ainsi que leurs élaborations complexes.
 
 <br/>
 
