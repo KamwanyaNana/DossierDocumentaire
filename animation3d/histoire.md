@@ -47,7 +47,7 @@
 
 <br/>
 
-Une ou deux lignes qui expliquent ce qu’on retrouve dans cette classe. Ensuite, publication des différentes ressources trouvées.
+Cette page contient des références de sur l'animation en générale, son histoire et sa définition.
 
 <br/>
 
