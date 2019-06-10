@@ -49,7 +49,7 @@
 
 <br/>
 
-Une ou deux lignes qui expliquent ce qu’on retrouve dans cette classe. Ensuite, publication des différentes ressources trouvées.
+Cette page contient des références consacrées au développement du mouvement. Elles montrent des multiples possibilités et renseignent sur l'importance de l'étude du mouvement dans le domaine.
 
 <br/>
 
