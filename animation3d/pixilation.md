@@ -49,7 +49,7 @@
 
 <br/>
 
-Une ou deux lignes qui expliquent ce qu’on retrouve dans cette classe. Ensuite, publication des différentes ressources trouvées.
+Cette page contient des références sur les principes de pixilation et rotoscopie, fortement similaires à celui du stop-motion, mais avec quelques divergences.
 
 <br/>
 
