@@ -49,7 +49,7 @@
 
 <br/>
 
-Une ou deux lignes qui expliquent ce qu’on retrouve dans cette classe. Ensuite, publication des différentes ressources trouvées.
+Cette page contient des références exposant les principes de création de personnages 3D. Leurs modélisations est expliquées, notamment, par une chaine professionnelle qui montre les démarches à suivre pour la simple mise en forme.
 
 <br/>
 
