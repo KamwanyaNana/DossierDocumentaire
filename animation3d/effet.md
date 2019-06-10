@@ -49,7 +49,7 @@
 
 <br/>
 
-Une ou deux lignes qui expliquent ce qu’on retrouve dans cette classe. Ensuite, publication des différentes ressources trouvées.
+Cette page contient des références montrant la mise en oeuvre des effets spéciaux, en passant par la réalisation ''manuelle'' jusqu'à la conceptualisation sur écrans.
 
 <br/>
 
