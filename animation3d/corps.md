@@ -6,7 +6,7 @@
 
 [Accueil](index.md)
 
-1. Une introduction à l'animation](histoire.md)
+1. [Une introduction à l'animation](histoire.md)
 
     - [Le développement de la 2D](2d.md)
     - [Le passage à la 3D](3d.md)
