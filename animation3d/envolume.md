@@ -49,7 +49,7 @@
 
 <br/>
 
-Introduction sur l'animation en volume ou 3D réel.
+Cette page ne contient qu'une référence introduisant l'animation en volume, "ancêtre" des images de synthèse, également appelé animation en 3D réelle.
 
 <br/>
 
