@@ -65,9 +65,15 @@ Une ou deux lignes qui expliquent ce qu’on retrouve dans cette classe. Ensuite
 
 <br/>
 
-##### MJM VIDÉO/ANIMATION. « En quoi consiste le métier d'animateur 3D » [en ligne]. [Consulté le 30 mai 2019]. Disponible sur le Web: <https://www.mjm-video-animation.com/comment-realiser-une-bonne-animation-video/>
+##### MJM VIDÉO/ANIMATION. « En quoi consiste le métier d'animateur 3D » [en ligne]. [Consulté le 30 mai 2019]. Disponible sur le Web: [https://www.mjm-video-animation.com/comment-realiser-une-bonne-animation-video/](https://www.mjm-video-animation.com/comment-realiser-une-bonne-animation-video/)
 
 ![Les évolutions du métier d'animateur 3D](images/évolution3d.JPG "En quoi consiste le métier d'animateur 3D")
+
+<br/>
+
+##### PATUREL, Cécile. « La VR à l’épreuve du cinéma » [en ligne]. In _Ciclic : Upopi_. Publié en 2019 [consulté le 8 juin 2019]. Disponible sur le Web : [http://upopi.ciclic.fr/analyser/le-cinema-la-loupe/la-vr-l-epreuve-du-cinema](http://upopi.ciclic.fr/analyser/le-cinema-la-loupe/la-vr-l-epreuve-du-cinema)
+
+![La VR à l’épreuve du cinéma](images/virtuelle.JPG "La VR à l’épreuve du cinéma")
 
 <br/>
 
