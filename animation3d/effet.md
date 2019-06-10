@@ -57,8 +57,8 @@ Cette page contient des références montrant la mise en oeuvre des effets spéc
 
 > _« Dans Spirit, les effets étaient très naturels. Il y a beaucoup d’éléments organiques – eau, feu, poussière. Le travail consistait à créer les éléments naturels : le brouillard, la neige, le scintillement des étoiles. C’est un plus par rapport à l’animation traditionnelle. Une des séquences les plus spectaculaires, c’est lorsque Rivière est sauvée. Les deux personnages principaux sont emportés dans des rapides. Tandis que les personnages sont dessinés à la main, l’environnement est généré par ordinateur puis intégré à l’animation en 2D. Ça, c’est un effet d’éclaboussement dessiné à la main et c’est comme ça qu’on a obtenu cette mousse à la surface. Pour captiver le public, on a adopté un style de prise de vues réelles. On a utilisé des décors informatiques pour pouvoir se déplacer sur trois dimensions et on a mis la caméra sur l’eau, comme si elle filmait d’un radeau. Ça produit l’effet dramatique d’un tournage caméra à l’épaule. Pourvoir créer de tels effets qui sont intégrés dans ces paysages magnifiques et avec une animation incroyable… Rien que de savoir le nombre de personnes qui travaillent dessus et la réflexion que demande chaque scène, c’est impressionnant. »_
 
-![L’animation de ‘’Spirit’’ - captures](images/spiritdecor.JPG "Les décors 3D")
-![L’animation de ‘’Spirit’’ - captures](images/spiriteau.JPG "Le rendu de l'eau")
+![L’animation de ‘’Spirit’’ - captures](images/spiritdecor.JPG "Les décors 3D ©2002DREAMWORKS, Spirit. Tous droits réservés.")
+![L’animation de ‘’Spirit’’ - captures](images/spiriteau.JPG "Le rendu de l'eau ©2002DREAMWORKS, Spirit. Tous droits réservés.")
 
 <br/>
 
@@ -72,16 +72,16 @@ Cette page contient des références montrant la mise en oeuvre des effets spéc
 
 > _« Pour le premier volet, on a investi 900 millions. Celui-ci atteint le milliard. Beaucoup de choses ont changé. On a beaucoup investi dans les effets de lumière et de son. (…) Malgré tous les préparatifs, la pression est quand même forte. Pour les scènes au temple du Dragon des mers, il faut du gros matériel. Nos caméras étaient trop encombrantes. Nous en avons acheté des plus petites. (…) On arrive à faire aujourd’hui des choses qu’on n’imaginait pas avant. Nous avons mis à contribution notre savoir-faire et notre expérience pour créer une œuvre nouvelle. »_
 
-![L’équipe technique - capture d'écran](images/dee2effeteau.JPG "Apparition de la créature")
+![L’équipe technique - capture d'écran](images/dee2effeteau.JPG "Apparition de la créature ©2013HUAYI CORPORATION, Detective Dee 2. Tous droits réservés.")
 
 > _« Tsui Hark voit toujours très grand, des scènes grandioses, mais il accorde de la place à la nouveauté et au sens du détail. Quand il conçoit le film, il se met à la place d’un spectateur qui veut en avoir pour son argent. Je voulais de l’eau en 3D. On tourne sous l’eau, c’est une grande première ici. Ça s’explique par son goût du risque. Plus c’est difficile, plus il veut essayer. Un tournage classique dans l’eau, c’est déjà difficile. Alors en 3D… »_
 
-![L’équipe technique - capture d'écran](images/dee2effeteauI.JPG "Combat dans l'eau - réalisation")
-![L’équipe technique - capture d'écran](images/dee2effeteauII.JPG "Combat dans l'eau - rendu")
+![L’équipe technique - capture d'écran](images/dee2effeteauI.JPG "Combat dans l'eau - réalisation ©2013HUAYI CORPORATION, Detective Dee 2. Tous droits réservés.")
+![L’équipe technique - capture d'écran](images/dee2effeteauII.JPG "Combat dans l'eau - rendu ©2013HUAYI CORPORATION, Detective Dee 2. Tous droits réservés.")
 
 > _« Je voulais voir un cavalier qui galope dans l’eau. C’est une image que j’avais depuis longtemps en tête, mais ça suppose un environnement maîtrisé. On a utilisé des bassins remplis d’eau. Le bassin fait 30 m par 60 m et 3 m de profondeur. On a mis 3 mois pour le construire. Tout ça pour quelques scènes. Nous avons fabriqué nos propres bouées. Nos propres coffrages. On a utilisé des machines à faire des vagues. Quand elles déferlent, c’est très réussi. Pour bien contrôler ce bassin, il faut du temps. Ça suppose un timing très précis. Quand on filme un corps qui bondit hors de l’eau, il faut avoir une bonne maîtrise de l’élément naturel. (…) On est allés à Yiwu pour louer une piscine plus profonde car il fallait 9 m de fond pour la scène avec le cheval. On a engagé une dizaine de plongeurs. Un Australien expert en images sous-marines. Avec la seule caméra permettant de telles prises de vues. Avec les autres appareils, il y avait 260 kilos de matériel. Le plus dur, c’est de tout coordonner dans un tel emplacement. »_
 
-![L’équipe technique - capture d'écran](images/dee2effeteauIII.JPG "Le bassin")
+![L’équipe technique - capture d'écran](images/dee2effeteauIII.JPG "Le bassin ©2013HUAYI CORPORATION, Detective Dee 2. Tous droits réservés.")
 
 <br/>
 
