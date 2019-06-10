@@ -49,7 +49,7 @@
 
 <br/>
 
-Une ou deux lignes qui expliquent ce qu’on retrouve dans cette classe. Ensuite, publication des différentes ressources trouvées.
+Cette page contient des références mettant à votre disposition deux formules de support de cours, pour une éventuelle formation ou comme simple renseignement.
 
 <br/>
 
