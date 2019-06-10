@@ -49,7 +49,7 @@
 
 <br/>
 
-Une ou deux lignes qui expliquent ce qu’on retrouve dans cette classe. Ensuite, publication des différentes ressources trouvées.
+Cette dernière page contient des références qui énoncent l'émergence du ray tracing ou photoréalisme au sein, plus particulièrement, des jeux vidéos, mais également dans l'animation 3D en général.
 
 <br/>
 
