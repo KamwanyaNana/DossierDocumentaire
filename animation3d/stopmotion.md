@@ -49,7 +49,7 @@
 
 <br/>
 
-Une ou deux lignes qui expliquent ce qu’on retrouve dans cette classe. Ensuite, publication des différentes ressources trouvées.
+Cette page contient deux références qui établissent le principe du stop motion et donnent au passage quelques conseils pour la réalisation d'un éventuel métrage.
 
 <br/>
 
