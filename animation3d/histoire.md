@@ -60,6 +60,7 @@ Cette page contient des références de sur l'animation en générale. Elles abo
 ##### CICLIC : CENTRE-VAL DE LOIRE. « Histoire du cinéma d'animation » [en ligne]. In Upopi : Université populaire des images. [Consulté le 8 juin 2019]. Disponible sur le Web : [http://upopi.ciclic.fr/apprendre/l-histoire-des-images/histoire-du-cinema-d-animation](http://upopi.ciclic.fr/apprendre/l-histoire-des-images/histoire-du-cinema-d-animation)
 
 ![Histoire du cinéma d'animation](images/histoireanimation.JPG "Histoire du cinéma d'animation")
+![Ligne du temps sur l'histoire du cinéma d'animation](images/lignetemps.JPG "Ligne du temps sur l'histoire du cinéma d'animation")
 
 <br/>
 
