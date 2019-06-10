@@ -48,7 +48,7 @@
 
 <br/>
 
-Une ou deux lignes qui expliquent ce qu’on retrouve dans cette classe. Ensuite, publication des différentes ressources trouvées.
+Cette page contient des références définissant et expliquant, de manière théorique, les différents principes de base de la technique du motion capture.
 
 <br/>
 
