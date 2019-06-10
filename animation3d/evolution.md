@@ -48,7 +48,7 @@
 
 <br/>
 
-Une ou deux lignes qui expliquent ce qu’on retrouve dans cette classe. Ensuite, publication des différentes ressources trouvées.
+Cette avant dernière page du classement contient des références mettant en avant les évolutions déjà en cours ou prévisibles, suivant la logique de l'avancement actuel de l'animation.
 
 <br/>
 
