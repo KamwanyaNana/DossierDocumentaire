@@ -47,7 +47,7 @@
 
 <br/>
 
-Cette page contient des références de sur l'animation en générale, son histoire et sa définition.
+Cette page contient des références de sur l'animation en générale. Elles abordent l'histoire et définissent le concept. 
 
 <br/>
 
