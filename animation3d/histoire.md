@@ -57,6 +57,12 @@ Une ou deux lignes qui expliquent ce qu’on retrouve dans cette classe. Ensuite
 
 <br/>
 
+##### CICLIC : CENTRE-VAL DE LOIRE. « Histoire du cinéma d'animation » [en ligne]. In Upopi : Université populaire des images. [Consulté le 8 juin 2019]. Disponible sur le Web : [http://upopi.ciclic.fr/apprendre/l-histoire-des-images/histoire-du-cinema-d-animation](http://upopi.ciclic.fr/apprendre/l-histoire-des-images/histoire-du-cinema-d-animation)
+
+![Histoire du cinéma d'animation](images/histoireanimation.JPG "Histoire du cinéma d'animation")
+
+<br/>
+
 ##### OLATS, Leonardo et CAMACHO, Véronica. «  L’émergence du concept de « cinéma d’animation » » [en ligne]. In Leonardo. Publié en octobre 2008 [consulté le 19 mai 2019]. Disponible sur le Web : [http://www.olats.org/livresetudes/basiques/animationnumerique/1_basiquesAN.php#1](http://www.olats.org/livresetudes/basiques/animationnumerique/1_basiquesAN.php#1)
 
 ![Table des matières](images/cinemadanimation.JPG "Table des matières")
