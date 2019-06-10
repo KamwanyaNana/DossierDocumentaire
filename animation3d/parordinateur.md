@@ -47,7 +47,7 @@
 
 <br/>
 
-Une ou deux lignes qui expliquent ce qu’on retrouve dans cette classe. Ensuite, publication des différentes ressources trouvées.
+Cette page contient deux références introduisant l'animation par ordinateur en posant les bases. Les deux ne sont que des captures morcelées des documents sources.
 
 <br/>
 
